@@ -7,7 +7,7 @@ import json
 import time
 
 # --- CONFIGURATION ---
-PROFILE_URL = "https://x.com/MrBeast"  # Single place to set the profile URL
+PROFILE_URL = "https://x.com/JeffBezos"  # Single place to set the profile URL
 NUM_POSTS_TO_RETRIEVE = 10  # Single place to set the number of posts
 # --- END CONFIGURATION ---
 
@@ -90,32 +90,34 @@ def scrape_twitter_info(url: str, is_user_profile: bool):
         else:
             # User profile details retrieval
             try:
-                page.goto(url, timeout=60000)
+                page.goto(url, timeout=60000)  # Keep timeout for initial load
             except Exception as e:
                 print(f"Error loading page: {e}")
                 return None
+
             selector = "[data-testid='primaryColumn']"
             xhr_condition = "UserByScreenName"
             page.wait_for_selector(selector, timeout=30000)
 
-            # Wait for UserByScreenName XHR calls, process, and return on success
+
             start_time = time.time()
-            user_data = None  # Initialize user_data
-            while time.time() - start_time < 30 and user_data is None: # Modified condition
+            user_data = None
+            while time.time() - start_time < 60 and user_data is None:  # Increased wait time
                 user_calls = [f for f in _xhr_calls if xhr_condition in f.url]
                 for call in user_calls:
                     try:
                         data = call.json()
                         user_data = data['data']['user']['result']
-                        if 'rest_id' in user_data and 'errors' not in user_data: # Corrected condition
-                            return user_data  # Return as soon as valid data is found
+                        # More robust check for valid data
+                        if 'rest_id' in user_data and 'errors' not in user_data and 'legacy' in user_data:
+                            return user_data
                     except (KeyError, TypeError, json.JSONDecodeError) as e:
                         print(f"Error processing XHR call: {e}, URL: {call.url}")
-                        # No 'continue' here
+                    # Critically, *NO* continue here. Check *all* potential calls.
 
-                time.sleep(1)
+                time.sleep(1)  # Wait a bit before checking again
 
-            return user_data # return the user_data
+            return user_data  # Return whatever we have (might be None)
 
 
 # --- Helper function to extract username ---

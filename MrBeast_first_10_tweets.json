@@ -1,0 +1,2635 @@
+[
+    {
+        "__typename": "Tweet",
+        "rest_id": "1749500209061663043",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoyNDU1NzQwMjgz",
+                    "rest_id": "2455740283",
+                    "affiliates_highlighted_label": {},
+                    "parody_commentary_fan_label": "None",
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Circle",
+                    "legacy": {
+                        "created_at": "Mon Apr 21 00:28:42 +0000 2014",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "X Super Official CEO",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "amazon.com/beastgames",
+                                        "expanded_url": "https://www.amazon.com/beastgames",
+                                        "url": "https://t.co/e8ZoaSIchZ",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 23557,
+                        "followers_count": 32211161,
+                        "friends_count": 2068,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 8448,
+                        "location": "Follow me for a cookie",
+                        "media_count": 873,
+                        "name": "MrBeast",
+                        "normal_followers_count": 32211161,
+                        "pinned_tweet_ids_str": [
+                            "1878132133144715658"
+                        ],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2455740283/1733506553",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/994592419705274369/RLplF55e_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "MrBeast",
+                        "statuses_count": 7012,
+                        "translator_type": "none",
+                        "url": "https://t.co/e8ZoaSIchZ",
+                        "verified": false,
+                        "withheld_in_countries": []
+                    },
+                    "professional": {
+                        "rest_id": "1679573344159510535",
+                        "professional_type": "Creator",
+                        "category": [
+                            {
+                                "id": 933,
+                                "name": "Media Personality",
+                                "icon_name": "IconBriefcaseStroke"
+                            }
+                        ]
+                    },
+                    "tipjar_settings": {
+                        "is_enabled": false,
+                        "bandcamp_handle": "",
+                        "bitcoin_handle": "",
+                        "cash_app_handle": "",
+                        "ethereum_handle": "",
+                        "gofundme_handle": "",
+                        "patreon_handle": "",
+                        "pay_pal_handle": "",
+                        "venmo_handle": ""
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": [
+                "1749500209061663043"
+            ],
+            "editable_until_msecs": "1705951928000",
+            "is_edit_eligible": false,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "count": "262809908",
+            "state": "EnabledWithCount"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "grok_analysis_button": true,
+        "legacy": {
+            "bookmark_count": 67293,
+            "bookmarked": false,
+            "created_at": "Mon Jan 22 18:32:08 +0000 2024",
+            "conversation_id_str": "1749500209061663043",
+            "display_text_range": [
+                0,
+                144
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 1956646,
+            "favorited": false,
+            "full_text": "I\u2019m gonna give 10 random people that repost this and follow me $25,000 for fun (the $250,000 my X video made)\n\nI\u2019ll pick the winners in 72 hours",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 221014,
+            "reply_count": 409598,
+            "retweet_count": 2779477,
+            "retweeted": false,
+            "user_id_str": "2455740283",
+            "id_str": "1749500209061663043"
+        },
+        "quick_promote_eligibility": {
+            "eligibility": "IneligibleUserUnauthorized"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "1523674759925760000",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoyNDU1NzQwMjgz",
+                    "rest_id": "2455740283",
+                    "affiliates_highlighted_label": {},
+                    "parody_commentary_fan_label": "None",
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Circle",
+                    "legacy": {
+                        "created_at": "Mon Apr 21 00:28:42 +0000 2014",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "X Super Official CEO",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "amazon.com/beastgames",
+                                        "expanded_url": "https://www.amazon.com/beastgames",
+                                        "url": "https://t.co/e8ZoaSIchZ",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 23557,
+                        "followers_count": 32211161,
+                        "friends_count": 2068,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 8448,
+                        "location": "Follow me for a cookie",
+                        "media_count": 873,
+                        "name": "MrBeast",
+                        "normal_followers_count": 32211161,
+                        "pinned_tweet_ids_str": [
+                            "1878132133144715658"
+                        ],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2455740283/1733506553",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/994592419705274369/RLplF55e_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "MrBeast",
+                        "statuses_count": 7012,
+                        "translator_type": "none",
+                        "url": "https://t.co/e8ZoaSIchZ",
+                        "verified": false,
+                        "withheld_in_countries": []
+                    },
+                    "professional": {
+                        "rest_id": "1679573344159510535",
+                        "professional_type": "Creator",
+                        "category": [
+                            {
+                                "id": 933,
+                                "name": "Media Personality",
+                                "icon_name": "IconBriefcaseStroke"
+                            }
+                        ]
+                    },
+                    "tipjar_settings": {
+                        "is_enabled": false,
+                        "bandcamp_handle": "",
+                        "bitcoin_handle": "",
+                        "cash_app_handle": "",
+                        "ethereum_handle": "",
+                        "gofundme_handle": "",
+                        "patreon_handle": "",
+                        "pay_pal_handle": "",
+                        "venmo_handle": ""
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": [
+                "1523674759925760000"
+            ],
+            "editable_until_msecs": "1652109145000",
+            "is_edit_eligible": false,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "grok_analysis_button": true,
+        "legacy": {
+            "bookmark_count": 10167,
+            "bookmarked": false,
+            "created_at": "Mon May 09 14:42:25 +0000 2022",
+            "conversation_id_str": "1523674759925760000",
+            "display_text_range": [
+                0,
+                20
+            ],
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.x.com/vtjWx40m9i",
+                        "expanded_url": "https://x.com/MrBeast/status/1523674759925760000/photo/1",
+                        "id_str": "1523674750580670470",
+                        "indices": [
+                            21,
+                            44
+                        ],
+                        "media_key": "3_1523674750580670470",
+                        "media_url_https": "https://pbs.twimg.com/media/FSUuHOWXwAYplBU.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/vtjWx40m9i",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": []
+                            },
+                            "medium": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            },
+                            "orig": {
+                                "faces": []
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 1351,
+                                "w": 1170,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "w": 1039,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 680,
+                                "w": 589,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 1351,
+                            "width": 1170,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1170,
+                                    "h": 655
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1170,
+                                    "h": 1170
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1170,
+                                    "h": 1334
+                                },
+                                {
+                                    "x": 33,
+                                    "y": 0,
+                                    "w": 676,
+                                    "h": 1351
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1170,
+                                    "h": 1351
+                                }
+                            ]
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_1523674750580670470"
+                            }
+                        }
+                    }
+                ],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.x.com/vtjWx40m9i",
+                        "expanded_url": "https://x.com/MrBeast/status/1523674759925760000/photo/1",
+                        "id_str": "1523674750580670470",
+                        "indices": [
+                            21,
+                            44
+                        ],
+                        "media_key": "3_1523674750580670470",
+                        "media_url_https": "https://pbs.twimg.com/media/FSUuHOWXwAYplBU.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/vtjWx40m9i",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": []
+                            },
+                            "medium": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            },
+                            "orig": {
+                                "faces": []
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 1351,
+                                "w": 1170,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "w": 1039,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 680,
+                                "w": 589,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 1351,
+                            "width": 1170,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1170,
+                                    "h": 655
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1170,
+                                    "h": 1170
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1170,
+                                    "h": 1334
+                                },
+                                {
+                                    "x": 33,
+                                    "y": 0,
+                                    "w": 676,
+                                    "h": 1351
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1170,
+                                    "h": 1351
+                                }
+                            ]
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_1523674750580670470"
+                            }
+                        }
+                    }
+                ]
+            },
+            "favorite_count": 1363656,
+            "favorited": false,
+            "full_text": "No takesies backsies https://t.co/vtjWx40m9i",
+            "is_quote_status": false,
+            "lang": "en",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 13376,
+            "reply_count": 64364,
+            "retweet_count": 72661,
+            "retweeted": false,
+            "user_id_str": "2455740283",
+            "id_str": "1523674759925760000"
+        },
+        "quick_promote_eligibility": {
+            "eligibility": "IneligibleUserUnauthorized"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "1605962961033445376",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoyNDU1NzQwMjgz",
+                    "rest_id": "2455740283",
+                    "affiliates_highlighted_label": {},
+                    "parody_commentary_fan_label": "None",
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Circle",
+                    "legacy": {
+                        "created_at": "Mon Apr 21 00:28:42 +0000 2014",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "X Super Official CEO",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "amazon.com/beastgames",
+                                        "expanded_url": "https://www.amazon.com/beastgames",
+                                        "url": "https://t.co/e8ZoaSIchZ",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 23557,
+                        "followers_count": 32211161,
+                        "friends_count": 2068,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 8448,
+                        "location": "Follow me for a cookie",
+                        "media_count": 873,
+                        "name": "MrBeast",
+                        "normal_followers_count": 32211161,
+                        "pinned_tweet_ids_str": [
+                            "1878132133144715658"
+                        ],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2455740283/1733506553",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/994592419705274369/RLplF55e_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "MrBeast",
+                        "statuses_count": 7012,
+                        "translator_type": "none",
+                        "url": "https://t.co/e8ZoaSIchZ",
+                        "verified": false,
+                        "withheld_in_countries": []
+                    },
+                    "professional": {
+                        "rest_id": "1679573344159510535",
+                        "professional_type": "Creator",
+                        "category": [
+                            {
+                                "id": 933,
+                                "name": "Media Personality",
+                                "icon_name": "IconBriefcaseStroke"
+                            }
+                        ]
+                    },
+                    "tipjar_settings": {
+                        "is_enabled": false,
+                        "bandcamp_handle": "",
+                        "bitcoin_handle": "",
+                        "cash_app_handle": "",
+                        "ethereum_handle": "",
+                        "gofundme_handle": "",
+                        "patreon_handle": "",
+                        "pay_pal_handle": "",
+                        "venmo_handle": ""
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": [
+                "1605962961033445376"
+            ],
+            "editable_until_msecs": "1671728181000",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "count": "72293733",
+            "state": "EnabledWithCount"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "grok_analysis_button": true,
+        "legacy": {
+            "bookmark_count": 1988,
+            "bookmarked": false,
+            "created_at": "Thu Dec 22 16:26:21 +0000 2022",
+            "conversation_id_str": "1605962961033445376",
+            "display_text_range": [
+                0,
+                29
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 940795,
+            "favorited": false,
+            "full_text": "Can I be the new Twitter CEO?",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 4965,
+            "reply_count": 24333,
+            "retweet_count": 36767,
+            "retweeted": false,
+            "user_id_str": "2455740283",
+            "id_str": "1605962961033445376"
+        },
+        "quick_promote_eligibility": {
+            "eligibility": "IneligibleUserUnauthorized"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "1562418541533736960",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoyNDU1NzQwMjgz",
+                    "rest_id": "2455740283",
+                    "affiliates_highlighted_label": {},
+                    "parody_commentary_fan_label": "None",
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Circle",
+                    "legacy": {
+                        "created_at": "Mon Apr 21 00:28:42 +0000 2014",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "X Super Official CEO",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "amazon.com/beastgames",
+                                        "expanded_url": "https://www.amazon.com/beastgames",
+                                        "url": "https://t.co/e8ZoaSIchZ",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 23557,
+                        "followers_count": 32211161,
+                        "friends_count": 2068,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 8448,
+                        "location": "Follow me for a cookie",
+                        "media_count": 873,
+                        "name": "MrBeast",
+                        "normal_followers_count": 32211161,
+                        "pinned_tweet_ids_str": [
+                            "1878132133144715658"
+                        ],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2455740283/1733506553",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/994592419705274369/RLplF55e_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "MrBeast",
+                        "statuses_count": 7012,
+                        "translator_type": "none",
+                        "url": "https://t.co/e8ZoaSIchZ",
+                        "verified": false,
+                        "withheld_in_countries": []
+                    },
+                    "professional": {
+                        "rest_id": "1679573344159510535",
+                        "professional_type": "Creator",
+                        "category": [
+                            {
+                                "id": 933,
+                                "name": "Media Personality",
+                                "icon_name": "IconBriefcaseStroke"
+                            }
+                        ]
+                    },
+                    "tipjar_settings": {
+                        "is_enabled": false,
+                        "bandcamp_handle": "",
+                        "bitcoin_handle": "",
+                        "cash_app_handle": "",
+                        "ethereum_handle": "",
+                        "gofundme_handle": "",
+                        "patreon_handle": "",
+                        "pay_pal_handle": "",
+                        "venmo_handle": ""
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": [
+                "1562418541533736960"
+            ],
+            "editable_until_msecs": "1661346383000",
+            "is_edit_eligible": false,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "grok_analysis_button": true,
+        "legacy": {
+            "bookmark_count": 4536,
+            "bookmarked": false,
+            "created_at": "Wed Aug 24 12:36:23 +0000 2022",
+            "conversation_id_str": "1562418541533736960",
+            "display_text_range": [
+                0,
+                234
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 862493,
+            "favorited": false,
+            "full_text": "I was walking around in India and someone asked for a picture. So I asked my translator to ask him what his favorite MrBeast video is and he said that he doesn\u2019t know what a MrBeast is and just wanted a photo with a tall white guy lol",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 3507,
+            "reply_count": 11845,
+            "retweet_count": 27740,
+            "retweeted": false,
+            "user_id_str": "2455740283",
+            "id_str": "1562418541533736960"
+        },
+        "quick_promote_eligibility": {
+            "eligibility": "IneligibleUserUnauthorized"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "1797057918153499065",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoyNDU1NzQwMjgz",
+                    "rest_id": "2455740283",
+                    "affiliates_highlighted_label": {},
+                    "parody_commentary_fan_label": "None",
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Circle",
+                    "legacy": {
+                        "created_at": "Mon Apr 21 00:28:42 +0000 2014",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "X Super Official CEO",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "amazon.com/beastgames",
+                                        "expanded_url": "https://www.amazon.com/beastgames",
+                                        "url": "https://t.co/e8ZoaSIchZ",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 23557,
+                        "followers_count": 32211161,
+                        "friends_count": 2068,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 8448,
+                        "location": "Follow me for a cookie",
+                        "media_count": 873,
+                        "name": "MrBeast",
+                        "normal_followers_count": 32211161,
+                        "pinned_tweet_ids_str": [
+                            "1878132133144715658"
+                        ],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2455740283/1733506553",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/994592419705274369/RLplF55e_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "MrBeast",
+                        "statuses_count": 7012,
+                        "translator_type": "none",
+                        "url": "https://t.co/e8ZoaSIchZ",
+                        "verified": false,
+                        "withheld_in_countries": []
+                    },
+                    "professional": {
+                        "rest_id": "1679573344159510535",
+                        "professional_type": "Creator",
+                        "category": [
+                            {
+                                "id": 933,
+                                "name": "Media Personality",
+                                "icon_name": "IconBriefcaseStroke"
+                            }
+                        ]
+                    },
+                    "tipjar_settings": {
+                        "is_enabled": false,
+                        "bandcamp_handle": "",
+                        "bitcoin_handle": "",
+                        "cash_app_handle": "",
+                        "ethereum_handle": "",
+                        "gofundme_handle": "",
+                        "patreon_handle": "",
+                        "pay_pal_handle": "",
+                        "venmo_handle": ""
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": [
+                "1797057918153499065"
+            ],
+            "editable_until_msecs": "1717290570000",
+            "is_edit_eligible": false,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "count": "45310145",
+            "state": "EnabledWithCount"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "grok_analysis_button": true,
+        "legacy": {
+            "bookmark_count": 15608,
+            "bookmarked": false,
+            "created_at": "Sun Jun 02 00:09:30 +0000 2024",
+            "conversation_id_str": "1797057918153499065",
+            "display_text_range": [
+                0,
+                49
+            ],
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.x.com/V1znbyqw27",
+                        "expanded_url": "https://x.com/MrBeast/status/1797057918153499065/photo/1",
+                        "id_str": "1797057913959096320",
+                        "indices": [
+                            50,
+                            73
+                        ],
+                        "media_key": "3_1797057913959096320",
+                        "media_url_https": "https://pbs.twimg.com/media/GPBupspWIAA265a.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/V1znbyqw27",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": []
+                            },
+                            "medium": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            },
+                            "orig": {
+                                "faces": []
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 1280,
+                                "w": 1280,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "w": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 680,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 1280,
+                            "width": 1280,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 378,
+                                    "w": 1280,
+                                    "h": 717
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1280,
+                                    "h": 1280
+                                },
+                                {
+                                    "x": 157,
+                                    "y": 0,
+                                    "w": 1123,
+                                    "h": 1280
+                                },
+                                {
+                                    "x": 640,
+                                    "y": 0,
+                                    "w": 640,
+                                    "h": 1280
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1280,
+                                    "h": 1280
+                                }
+                            ]
+                        },
+                        "allow_download_status": {
+                            "allow_download": true
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_1797057913959096320"
+                            }
+                        }
+                    }
+                ],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.x.com/V1znbyqw27",
+                        "expanded_url": "https://x.com/MrBeast/status/1797057918153499065/photo/1",
+                        "id_str": "1797057913959096320",
+                        "indices": [
+                            50,
+                            73
+                        ],
+                        "media_key": "3_1797057913959096320",
+                        "media_url_https": "https://pbs.twimg.com/media/GPBupspWIAA265a.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/V1znbyqw27",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": []
+                            },
+                            "medium": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            },
+                            "orig": {
+                                "faces": []
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 1280,
+                                "w": 1280,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "w": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 680,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 1280,
+                            "width": 1280,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 378,
+                                    "w": 1280,
+                                    "h": 717
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1280,
+                                    "h": 1280
+                                },
+                                {
+                                    "x": 157,
+                                    "y": 0,
+                                    "w": 1123,
+                                    "h": 1280
+                                },
+                                {
+                                    "x": 640,
+                                    "y": 0,
+                                    "w": 640,
+                                    "h": 1280
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1280,
+                                    "h": 1280
+                                }
+                            ]
+                        },
+                        "allow_download_status": {
+                            "allow_download": true
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_1797057913959096320"
+                            }
+                        }
+                    }
+                ]
+            },
+            "favorite_count": 872069,
+            "favorited": false,
+            "full_text": "After 6 years we have finally avenged Pewdiepie \ud83e\udd79 https://t.co/V1znbyqw27",
+            "is_quote_status": false,
+            "lang": "en",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 6211,
+            "reply_count": 15745,
+            "retweet_count": 55740,
+            "retweeted": false,
+            "user_id_str": "2455740283",
+            "id_str": "1797057918153499065"
+        },
+        "quick_promote_eligibility": {
+            "eligibility": "IneligibleUserUnauthorized"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "1816299504674464113",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoyNDU1NzQwMjgz",
+                    "rest_id": "2455740283",
+                    "affiliates_highlighted_label": {},
+                    "parody_commentary_fan_label": "None",
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Circle",
+                    "legacy": {
+                        "created_at": "Mon Apr 21 00:28:42 +0000 2014",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "X Super Official CEO",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "amazon.com/beastgames",
+                                        "expanded_url": "https://www.amazon.com/beastgames",
+                                        "url": "https://t.co/e8ZoaSIchZ",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 23557,
+                        "followers_count": 32211161,
+                        "friends_count": 2068,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 8448,
+                        "location": "Follow me for a cookie",
+                        "media_count": 873,
+                        "name": "MrBeast",
+                        "normal_followers_count": 32211161,
+                        "pinned_tweet_ids_str": [
+                            "1878132133144715658"
+                        ],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2455740283/1733506553",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/994592419705274369/RLplF55e_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "MrBeast",
+                        "statuses_count": 7012,
+                        "translator_type": "none",
+                        "url": "https://t.co/e8ZoaSIchZ",
+                        "verified": false,
+                        "withheld_in_countries": []
+                    },
+                    "professional": {
+                        "rest_id": "1679573344159510535",
+                        "professional_type": "Creator",
+                        "category": [
+                            {
+                                "id": 933,
+                                "name": "Media Personality",
+                                "icon_name": "IconBriefcaseStroke"
+                            }
+                        ]
+                    },
+                    "tipjar_settings": {
+                        "is_enabled": false,
+                        "bandcamp_handle": "",
+                        "bitcoin_handle": "",
+                        "cash_app_handle": "",
+                        "ethereum_handle": "",
+                        "gofundme_handle": "",
+                        "patreon_handle": "",
+                        "pay_pal_handle": "",
+                        "venmo_handle": ""
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": [
+                "1816299504674464113"
+            ],
+            "editable_until_msecs": "1721878121000",
+            "is_edit_eligible": false,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "count": "116371809",
+            "state": "EnabledWithCount"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "note_tweet": {
+            "is_expandable": true,
+            "note_tweet_results": {
+                "result": {
+                    "id": "Tm90ZVR3ZWV0OjE4MTYyOTk1MDQ1Nzc5NDE1MDU=",
+                    "text": "Over the last few days, I\u2019ve become aware of the serious allegations of Ava Tyson's behavior online and I am disgusted and opposed to such unacceptable acts.\n\nDuring that time, I have been focused on hiring an independent third party to conduct a thorough investigation to ensure I have all the facts. That said, I\u2019ve seen enough online and taken immediate action to remove Ava from the company, my channel, and any association with MrBeast. I do not condone or support any of the inappropriate actions.\n\nI will allow the independent investigators the necessary time to conduct a comprehensive investigation and will take any further actions based on their findings.",
+                    "entity_set": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "urls": [],
+                        "user_mentions": []
+                    }
+                }
+            }
+        },
+        "grok_analysis_button": true,
+        "legacy": {
+            "bookmark_count": 41812,
+            "bookmarked": false,
+            "created_at": "Thu Jul 25 02:28:41 +0000 2024",
+            "conversation_id_str": "1816299504674464113",
+            "display_text_range": [
+                0,
+                279
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 767585,
+            "favorited": false,
+            "full_text": "Over the last few days, I\u2019ve become aware of the serious allegations of Ava Tyson's behavior online and I am disgusted and opposed to such unacceptable acts.\n\nDuring that time, I have been focused on hiring an independent third party to conduct a thorough investigation to ensure",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 9151,
+            "reply_count": 41605,
+            "retweet_count": 36315,
+            "retweeted": false,
+            "user_id_str": "2455740283",
+            "id_str": "1816299504674464113"
+        },
+        "quick_promote_eligibility": {
+            "eligibility": "IneligibleUserUnauthorized"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "1620195967008907264",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoyNDU1NzQwMjgz",
+                    "rest_id": "2455740283",
+                    "affiliates_highlighted_label": {},
+                    "parody_commentary_fan_label": "None",
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Circle",
+                    "legacy": {
+                        "created_at": "Mon Apr 21 00:28:42 +0000 2014",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "X Super Official CEO",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "amazon.com/beastgames",
+                                        "expanded_url": "https://www.amazon.com/beastgames",
+                                        "url": "https://t.co/e8ZoaSIchZ",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 23557,
+                        "followers_count": 32211161,
+                        "friends_count": 2068,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 8448,
+                        "location": "Follow me for a cookie",
+                        "media_count": 873,
+                        "name": "MrBeast",
+                        "normal_followers_count": 32211161,
+                        "pinned_tweet_ids_str": [
+                            "1878132133144715658"
+                        ],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2455740283/1733506553",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/994592419705274369/RLplF55e_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "MrBeast",
+                        "statuses_count": 7012,
+                        "translator_type": "none",
+                        "url": "https://t.co/e8ZoaSIchZ",
+                        "verified": false,
+                        "withheld_in_countries": []
+                    },
+                    "professional": {
+                        "rest_id": "1679573344159510535",
+                        "professional_type": "Creator",
+                        "category": [
+                            {
+                                "id": 933,
+                                "name": "Media Personality",
+                                "icon_name": "IconBriefcaseStroke"
+                            }
+                        ]
+                    },
+                    "tipjar_settings": {
+                        "is_enabled": false,
+                        "bandcamp_handle": "",
+                        "bitcoin_handle": "",
+                        "cash_app_handle": "",
+                        "ethereum_handle": "",
+                        "gofundme_handle": "",
+                        "patreon_handle": "",
+                        "pay_pal_handle": "",
+                        "venmo_handle": ""
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": [
+                "1620195967008907264"
+            ],
+            "editable_until_msecs": "1675121594000",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "count": "55854674",
+            "state": "EnabledWithCount"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "grok_analysis_button": true,
+        "legacy": {
+            "bookmark_count": 3614,
+            "bookmarked": false,
+            "created_at": "Mon Jan 30 23:03:14 +0000 2023",
+            "conversation_id_str": "1620195967008907264",
+            "display_text_range": [
+                0,
+                199
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 721632,
+            "favorited": false,
+            "full_text": "Twitter - Rich people should help others with their money\n\nMe - Okay, I\u2019ll use my money to help people and I promise to give away all my money before I die. Every single penny.\n\nTwitter - MrBeast bad",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 7723,
+            "reply_count": 23783,
+            "retweet_count": 41233,
+            "retweeted": false,
+            "user_id_str": "2455740283",
+            "id_str": "1620195967008907264"
+        },
+        "quick_promote_eligibility": {
+            "eligibility": "IneligibleUserUnauthorized"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "1674429048095916032",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoyNDU1NzQwMjgz",
+                    "rest_id": "2455740283",
+                    "affiliates_highlighted_label": {},
+                    "parody_commentary_fan_label": "None",
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Circle",
+                    "legacy": {
+                        "created_at": "Mon Apr 21 00:28:42 +0000 2014",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "X Super Official CEO",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "amazon.com/beastgames",
+                                        "expanded_url": "https://www.amazon.com/beastgames",
+                                        "url": "https://t.co/e8ZoaSIchZ",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 23557,
+                        "followers_count": 32211161,
+                        "friends_count": 2068,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 8448,
+                        "location": "Follow me for a cookie",
+                        "media_count": 873,
+                        "name": "MrBeast",
+                        "normal_followers_count": 32211161,
+                        "pinned_tweet_ids_str": [
+                            "1878132133144715658"
+                        ],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2455740283/1733506553",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/994592419705274369/RLplF55e_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "MrBeast",
+                        "statuses_count": 7012,
+                        "translator_type": "none",
+                        "url": "https://t.co/e8ZoaSIchZ",
+                        "verified": false,
+                        "withheld_in_countries": []
+                    },
+                    "professional": {
+                        "rest_id": "1679573344159510535",
+                        "professional_type": "Creator",
+                        "category": [
+                            {
+                                "id": 933,
+                                "name": "Media Personality",
+                                "icon_name": "IconBriefcaseStroke"
+                            }
+                        ]
+                    },
+                    "tipjar_settings": {
+                        "is_enabled": false,
+                        "bandcamp_handle": "",
+                        "bitcoin_handle": "",
+                        "cash_app_handle": "",
+                        "ethereum_handle": "",
+                        "gofundme_handle": "",
+                        "patreon_handle": "",
+                        "pay_pal_handle": "",
+                        "venmo_handle": ""
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": [
+                "1674429048095916032"
+            ],
+            "editable_until_msecs": "1688053569000",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "count": "78377130",
+            "state": "EnabledWithCount"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "grok_analysis_button": true,
+        "legacy": {
+            "bookmark_count": 10421,
+            "bookmarked": false,
+            "created_at": "Thu Jun 29 14:46:09 +0000 2023",
+            "conversation_id_str": "1674429048095916032",
+            "display_text_range": [
+                0,
+                161
+            ],
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.x.com/wFKpUHia52",
+                        "expanded_url": "https://x.com/MrBeast/status/1674429048095916032/photo/1",
+                        "id_str": "1674429038771965956",
+                        "indices": [
+                            162,
+                            185
+                        ],
+                        "media_key": "3_1674429038771965956",
+                        "media_url_https": "https://pbs.twimg.com/media/FzzEVtmaEAQPflB.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/wFKpUHia52",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 616,
+                                        "y": 696,
+                                        "h": 168,
+                                        "w": 168
+                                    },
+                                    {
+                                        "x": 427,
+                                        "y": 171,
+                                        "h": 324,
+                                        "w": 324
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 453,
+                                        "y": 512,
+                                        "h": 123,
+                                        "w": 123
+                                    },
+                                    {
+                                        "x": 314,
+                                        "y": 125,
+                                        "h": 238,
+                                        "w": 238
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 257,
+                                        "y": 290,
+                                        "h": 70,
+                                        "w": 70
+                                    },
+                                    {
+                                        "x": 178,
+                                        "y": 71,
+                                        "h": 135,
+                                        "w": 135
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 616,
+                                        "y": 696,
+                                        "h": 168,
+                                        "w": 168
+                                    },
+                                    {
+                                        "x": 427,
+                                        "y": 171,
+                                        "h": 324,
+                                        "w": 324
+                                    }
+                                ]
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 1628,
+                                "w": 1170,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "w": 862,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 680,
+                                "w": 489,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 1628,
+                            "width": 1170,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1170,
+                                    "h": 655
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1170,
+                                    "h": 1170
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1170,
+                                    "h": 1334
+                                },
+                                {
+                                    "x": 203,
+                                    "y": 0,
+                                    "w": 814,
+                                    "h": 1628
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1170,
+                                    "h": 1628
+                                }
+                            ]
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_1674429038771965956"
+                            }
+                        }
+                    },
+                    {
+                        "display_url": "pic.x.com/wFKpUHia52",
+                        "expanded_url": "https://x.com/MrBeast/status/1674429048095916032/photo/1",
+                        "id_str": "1674429038243479552",
+                        "indices": [
+                            162,
+                            185
+                        ],
+                        "media_key": "3_1674429038243479552",
+                        "media_url_https": "https://pbs.twimg.com/media/FzzEVroaAAAgsRc.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/wFKpUHia52",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 1090,
+                                        "y": 1654,
+                                        "h": 108,
+                                        "w": 108
+                                    },
+                                    {
+                                        "x": 566,
+                                        "y": 102,
+                                        "h": 322,
+                                        "w": 322
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 638,
+                                        "y": 969,
+                                        "h": 63,
+                                        "w": 63
+                                    },
+                                    {
+                                        "x": 331,
+                                        "y": 59,
+                                        "h": 188,
+                                        "w": 188
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 361,
+                                        "y": 549,
+                                        "h": 35,
+                                        "w": 35
+                                    },
+                                    {
+                                        "x": 187,
+                                        "y": 33,
+                                        "h": 106,
+                                        "w": 106
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 1090,
+                                        "y": 1654,
+                                        "h": 108,
+                                        "w": 108
+                                    },
+                                    {
+                                        "x": 566,
+                                        "y": 102,
+                                        "h": 322,
+                                        "w": 322
+                                    }
+                                ]
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 2048,
+                                "w": 1536,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "w": 900,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 680,
+                                "w": 510,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 2048,
+                            "width": 1536,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1536,
+                                    "h": 860
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1536,
+                                    "h": 1536
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1536,
+                                    "h": 1751
+                                },
+                                {
+                                    "x": 256,
+                                    "y": 0,
+                                    "w": 1024,
+                                    "h": 2048
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1536,
+                                    "h": 2048
+                                }
+                            ]
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_1674429038243479552"
+                            }
+                        }
+                    }
+                ],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.x.com/wFKpUHia52",
+                        "expanded_url": "https://x.com/MrBeast/status/1674429048095916032/photo/1",
+                        "id_str": "1674429038771965956",
+                        "indices": [
+                            162,
+                            185
+                        ],
+                        "media_key": "3_1674429038771965956",
+                        "media_url_https": "https://pbs.twimg.com/media/FzzEVtmaEAQPflB.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/wFKpUHia52",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 616,
+                                        "y": 696,
+                                        "h": 168,
+                                        "w": 168
+                                    },
+                                    {
+                                        "x": 427,
+                                        "y": 171,
+                                        "h": 324,
+                                        "w": 324
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 453,
+                                        "y": 512,
+                                        "h": 123,
+                                        "w": 123
+                                    },
+                                    {
+                                        "x": 314,
+                                        "y": 125,
+                                        "h": 238,
+                                        "w": 238
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 257,
+                                        "y": 290,
+                                        "h": 70,
+                                        "w": 70
+                                    },
+                                    {
+                                        "x": 178,
+                                        "y": 71,
+                                        "h": 135,
+                                        "w": 135
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 616,
+                                        "y": 696,
+                                        "h": 168,
+                                        "w": 168
+                                    },
+                                    {
+                                        "x": 427,
+                                        "y": 171,
+                                        "h": 324,
+                                        "w": 324
+                                    }
+                                ]
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 1628,
+                                "w": 1170,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "w": 862,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 680,
+                                "w": 489,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 1628,
+                            "width": 1170,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1170,
+                                    "h": 655
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1170,
+                                    "h": 1170
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1170,
+                                    "h": 1334
+                                },
+                                {
+                                    "x": 203,
+                                    "y": 0,
+                                    "w": 814,
+                                    "h": 1628
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1170,
+                                    "h": 1628
+                                }
+                            ]
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_1674429038771965956"
+                            }
+                        }
+                    },
+                    {
+                        "display_url": "pic.x.com/wFKpUHia52",
+                        "expanded_url": "https://x.com/MrBeast/status/1674429048095916032/photo/1",
+                        "id_str": "1674429038243479552",
+                        "indices": [
+                            162,
+                            185
+                        ],
+                        "media_key": "3_1674429038243479552",
+                        "media_url_https": "https://pbs.twimg.com/media/FzzEVroaAAAgsRc.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/wFKpUHia52",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 1090,
+                                        "y": 1654,
+                                        "h": 108,
+                                        "w": 108
+                                    },
+                                    {
+                                        "x": 566,
+                                        "y": 102,
+                                        "h": 322,
+                                        "w": 322
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 638,
+                                        "y": 969,
+                                        "h": 63,
+                                        "w": 63
+                                    },
+                                    {
+                                        "x": 331,
+                                        "y": 59,
+                                        "h": 188,
+                                        "w": 188
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 361,
+                                        "y": 549,
+                                        "h": 35,
+                                        "w": 35
+                                    },
+                                    {
+                                        "x": 187,
+                                        "y": 33,
+                                        "h": 106,
+                                        "w": 106
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 1090,
+                                        "y": 1654,
+                                        "h": 108,
+                                        "w": 108
+                                    },
+                                    {
+                                        "x": 566,
+                                        "y": 102,
+                                        "h": 322,
+                                        "w": 322
+                                    }
+                                ]
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 2048,
+                                "w": 1536,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "w": 900,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 680,
+                                "w": 510,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 2048,
+                            "width": 1536,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1536,
+                                    "h": 860
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1536,
+                                    "h": 1536
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1536,
+                                    "h": 1751
+                                },
+                                {
+                                    "x": 256,
+                                    "y": 0,
+                                    "w": 1024,
+                                    "h": 2048
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1536,
+                                    "h": 2048
+                                }
+                            ]
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_1674429038243479552"
+                            }
+                        }
+                    }
+                ]
+            },
+            "favorite_count": 695672,
+            "favorited": false,
+            "full_text": "Woke up and realized I was obese so I started lifting and walking 12,500 steps a day. Still got a long way to being yoked but I\u2019m happy with my progress so far \ud83e\udd70 https://t.co/wFKpUHia52",
+            "is_quote_status": false,
+            "lang": "en",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 8151,
+            "reply_count": 24657,
+            "retweet_count": 20672,
+            "retweeted": false,
+            "user_id_str": "2455740283",
+            "id_str": "1674429048095916032"
+        },
+        "quick_promote_eligibility": {
+            "eligibility": "IneligibleUserUnauthorized"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "1687881101417783296",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoyNDU1NzQwMjgz",
+                    "rest_id": "2455740283",
+                    "affiliates_highlighted_label": {},
+                    "parody_commentary_fan_label": "None",
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Circle",
+                    "legacy": {
+                        "created_at": "Mon Apr 21 00:28:42 +0000 2014",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "X Super Official CEO",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "amazon.com/beastgames",
+                                        "expanded_url": "https://www.amazon.com/beastgames",
+                                        "url": "https://t.co/e8ZoaSIchZ",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 23557,
+                        "followers_count": 32211161,
+                        "friends_count": 2068,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 8448,
+                        "location": "Follow me for a cookie",
+                        "media_count": 873,
+                        "name": "MrBeast",
+                        "normal_followers_count": 32211161,
+                        "pinned_tweet_ids_str": [
+                            "1878132133144715658"
+                        ],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2455740283/1733506553",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/994592419705274369/RLplF55e_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "MrBeast",
+                        "statuses_count": 7012,
+                        "translator_type": "none",
+                        "url": "https://t.co/e8ZoaSIchZ",
+                        "verified": false,
+                        "withheld_in_countries": []
+                    },
+                    "professional": {
+                        "rest_id": "1679573344159510535",
+                        "professional_type": "Creator",
+                        "category": [
+                            {
+                                "id": 933,
+                                "name": "Media Personality",
+                                "icon_name": "IconBriefcaseStroke"
+                            }
+                        ]
+                    },
+                    "tipjar_settings": {
+                        "is_enabled": false,
+                        "bandcamp_handle": "",
+                        "bitcoin_handle": "",
+                        "cash_app_handle": "",
+                        "ethereum_handle": "",
+                        "gofundme_handle": "",
+                        "patreon_handle": "",
+                        "pay_pal_handle": "",
+                        "venmo_handle": ""
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": [
+                "1687881101417783296"
+            ],
+            "editable_until_msecs": "1691260788000",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "count": "36407211",
+            "state": "EnabledWithCount"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "grok_analysis_button": true,
+        "legacy": {
+            "bookmark_count": 3597,
+            "bookmarked": false,
+            "created_at": "Sat Aug 05 17:39:48 +0000 2023",
+            "conversation_id_str": "1687881101417783296",
+            "display_text_range": [
+                0,
+                30
+            ],
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.x.com/h8obwAuJKF",
+                        "expanded_url": "https://x.com/MrBeast/status/1687881101417783296/photo/1",
+                        "id_str": "1687881098393759745",
+                        "indices": [
+                            31,
+                            54
+                        ],
+                        "media_key": "3_1687881098393759745",
+                        "media_url_https": "https://pbs.twimg.com/media/F2yO6ozbMAE0aLD.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/h8obwAuJKF",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 414,
+                                        "y": 333,
+                                        "h": 43,
+                                        "w": 43
+                                    },
+                                    {
+                                        "x": 221,
+                                        "y": 58,
+                                        "h": 134,
+                                        "w": 134
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 414,
+                                        "y": 333,
+                                        "h": 43,
+                                        "w": 43
+                                    },
+                                    {
+                                        "x": 221,
+                                        "y": 58,
+                                        "h": 134,
+                                        "w": 134
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 240,
+                                        "y": 193,
+                                        "h": 24,
+                                        "w": 24
+                                    },
+                                    {
+                                        "x": 128,
+                                        "y": 33,
+                                        "h": 77,
+                                        "w": 77
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 414,
+                                        "y": 333,
+                                        "h": 43,
+                                        "w": 43
+                                    },
+                                    {
+                                        "x": 221,
+                                        "y": 58,
+                                        "h": 134,
+                                        "w": 134
+                                    }
+                                ]
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 586,
+                                "w": 1170,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 586,
+                                "w": 1170,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 341,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 586,
+                            "width": 1170,
+                            "focus_rects": [
+                                {
+                                    "x": 91,
+                                    "y": 0,
+                                    "w": 1046,
+                                    "h": 586
+                                },
+                                {
+                                    "x": 321,
+                                    "y": 0,
+                                    "w": 586,
+                                    "h": 586
+                                },
+                                {
+                                    "x": 357,
+                                    "y": 0,
+                                    "w": 514,
+                                    "h": 586
+                                },
+                                {
+                                    "x": 468,
+                                    "y": 0,
+                                    "w": 293,
+                                    "h": 586
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1170,
+                                    "h": 586
+                                }
+                            ]
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_1687881098393759745"
+                            }
+                        }
+                    }
+                ],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.x.com/h8obwAuJKF",
+                        "expanded_url": "https://x.com/MrBeast/status/1687881101417783296/photo/1",
+                        "id_str": "1687881098393759745",
+                        "indices": [
+                            31,
+                            54
+                        ],
+                        "media_key": "3_1687881098393759745",
+                        "media_url_https": "https://pbs.twimg.com/media/F2yO6ozbMAE0aLD.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/h8obwAuJKF",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 414,
+                                        "y": 333,
+                                        "h": 43,
+                                        "w": 43
+                                    },
+                                    {
+                                        "x": 221,
+                                        "y": 58,
+                                        "h": 134,
+                                        "w": 134
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 414,
+                                        "y": 333,
+                                        "h": 43,
+                                        "w": 43
+                                    },
+                                    {
+                                        "x": 221,
+                                        "y": 58,
+                                        "h": 134,
+                                        "w": 134
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 240,
+                                        "y": 193,
+                                        "h": 24,
+                                        "w": 24
+                                    },
+                                    {
+                                        "x": 128,
+                                        "y": 33,
+                                        "h": 77,
+                                        "w": 77
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 414,
+                                        "y": 333,
+                                        "h": 43,
+                                        "w": 43
+                                    },
+                                    {
+                                        "x": 221,
+                                        "y": 58,
+                                        "h": 134,
+                                        "w": 134
+                                    }
+                                ]
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 586,
+                                "w": 1170,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 586,
+                                "w": 1170,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 341,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 586,
+                            "width": 1170,
+                            "focus_rects": [
+                                {
+                                    "x": 91,
+                                    "y": 0,
+                                    "w": 1046,
+                                    "h": 586
+                                },
+                                {
+                                    "x": 321,
+                                    "y": 0,
+                                    "w": 586,
+                                    "h": 586
+                                },
+                                {
+                                    "x": 357,
+                                    "y": 0,
+                                    "w": 514,
+                                    "h": 586
+                                },
+                                {
+                                    "x": 468,
+                                    "y": 0,
+                                    "w": 293,
+                                    "h": 586
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1170,
+                                    "h": 586
+                                }
+                            ]
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_1687881098393759745"
+                            }
+                        }
+                    }
+                ]
+            },
+            "favorite_count": 665919,
+            "favorited": false,
+            "full_text": "I\u2019m doing this for Pewdiepie \ud83e\udee1 https://t.co/h8obwAuJKF",
+            "is_quote_status": false,
+            "lang": "en",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 1959,
+            "reply_count": 10186,
+            "retweet_count": 23810,
+            "retweeted": false,
+            "user_id_str": "2455740283",
+            "id_str": "1687881101417783296"
+        },
+        "quick_promote_eligibility": {
+            "eligibility": "IneligibleUserUnauthorized"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "1878995330731299006",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoyNDU1NzQwMjgz",
+                    "rest_id": "2455740283",
+                    "affiliates_highlighted_label": {},
+                    "parody_commentary_fan_label": "None",
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Circle",
+                    "legacy": {
+                        "created_at": "Mon Apr 21 00:28:42 +0000 2014",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "X Super Official CEO",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "amazon.com/beastgames",
+                                        "expanded_url": "https://www.amazon.com/beastgames",
+                                        "url": "https://t.co/e8ZoaSIchZ",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 23557,
+                        "followers_count": 32211161,
+                        "friends_count": 2068,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 8448,
+                        "location": "Follow me for a cookie",
+                        "media_count": 873,
+                        "name": "MrBeast",
+                        "normal_followers_count": 32211161,
+                        "pinned_tweet_ids_str": [
+                            "1878132133144715658"
+                        ],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2455740283/1733506553",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/994592419705274369/RLplF55e_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "MrBeast",
+                        "statuses_count": 7012,
+                        "translator_type": "none",
+                        "url": "https://t.co/e8ZoaSIchZ",
+                        "verified": false,
+                        "withheld_in_countries": []
+                    },
+                    "professional": {
+                        "rest_id": "1679573344159510535",
+                        "professional_type": "Creator",
+                        "category": [
+                            {
+                                "id": 933,
+                                "name": "Media Personality",
+                                "icon_name": "IconBriefcaseStroke"
+                            }
+                        ]
+                    },
+                    "tipjar_settings": {
+                        "is_enabled": false,
+                        "bandcamp_handle": "",
+                        "bitcoin_handle": "",
+                        "cash_app_handle": "",
+                        "ethereum_handle": "",
+                        "gofundme_handle": "",
+                        "patreon_handle": "",
+                        "pay_pal_handle": "",
+                        "venmo_handle": ""
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": [
+                "1878995330731299006"
+            ],
+            "editable_until_msecs": "1736825971000",
+            "is_edit_eligible": false,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "count": "39309269",
+            "state": "EnabledWithCount"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "grok_analysis_button": true,
+        "legacy": {
+            "bookmark_count": 13933,
+            "bookmarked": false,
+            "created_at": "Tue Jan 14 02:39:31 +0000 2025",
+            "conversation_id_str": "1878995330731299006",
+            "display_text_range": [
+                0,
+                52
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 649911,
+            "favorited": false,
+            "full_text": "Okay fine, I\u2019ll buy Tik Tok so it doesn\u2019t get banned",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 7016,
+            "reply_count": 20597,
+            "retweet_count": 31506,
+            "retweeted": false,
+            "user_id_str": "2455740283",
+            "id_str": "1878995330731299006"
+        },
+        "quick_promote_eligibility": {
+            "eligibility": "IneligibleUserUnauthorized"
+        }
+    }
+]

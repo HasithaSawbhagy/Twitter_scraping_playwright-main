@@ -1,0 +1,1786 @@
+[
+    {
+        "__typename": "Tweet",
+        "rest_id": "1854184441511571765",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoxNTUwNjY2OQ==",
+                    "rest_id": "15506669",
+                    "affiliates_highlighted_label": {
+                        "label": {
+                            "url": {
+                                "url": "https://twitter.com/amazon",
+                                "urlType": "DeepLink"
+                            },
+                            "badge": {
+                                "url": "https://pbs.twimg.com/profile_images/1722015850168037376/OiNYYeZQ_bigger.jpg"
+                            },
+                            "description": "Amazon",
+                            "userLabelType": "BusinessLabel",
+                            "userLabelDisplayType": "Badge"
+                        }
+                    },
+                    "parody_commentary_fan_label": "None",
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Circle",
+                    "legacy": {
+                        "created_at": "Sun Jul 20 22:38:36 +0000 2008",
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "description": "Amazon. Blue Origin. Washington Post. Bezos Earth Fund. Bezos Academy.",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "hoo.be/jeffbezos",
+                                        "expanded_url": "https://hoo.be/jeffbezos",
+                                        "url": "https://t.co/SLz7tTMkas",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 475,
+                        "followers_count": 6793453,
+                        "friends_count": 422,
+                        "has_custom_timelines": false,
+                        "is_translator": false,
+                        "listed_count": 12766,
+                        "location": "",
+                        "media_count": 186,
+                        "name": "Jeff Bezos",
+                        "normal_followers_count": 6793453,
+                        "pinned_tweet_ids_str": [
+                            "1283508547897171969"
+                        ],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15506669/1448361938",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "JeffBezos",
+                        "statuses_count": 448,
+                        "translator_type": "none",
+                        "url": "https://t.co/SLz7tTMkas",
+                        "verified": false,
+                        "withheld_in_countries": []
+                    },
+                    "tipjar_settings": {
+                        "is_enabled": false,
+                        "bandcamp_handle": "",
+                        "bitcoin_handle": "",
+                        "cash_app_handle": "",
+                        "ethereum_handle": "",
+                        "gofundme_handle": "",
+                        "patreon_handle": "",
+                        "pay_pal_handle": "",
+                        "venmo_handle": ""
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": [
+                "1854184441511571765"
+            ],
+            "editable_until_msecs": "1730910594000",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "count": "20667446",
+            "state": "EnabledWithCount"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "grok_analysis_button": true,
+        "legacy": {
+            "bookmark_count": 6155,
+            "bookmarked": false,
+            "created_at": "Wed Nov 06 15:29:54 +0000 2024",
+            "conversation_id_str": "1854184441511571765",
+            "display_text_range": [
+                0,
+                236
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id_str": "25073877",
+                        "name": "Donald J. Trump",
+                        "screen_name": "realDonaldTrump",
+                        "indices": [
+                            160,
+                            176
+                        ]
+                    }
+                ]
+            },
+            "favorite_count": 280061,
+            "favorited": false,
+            "full_text": "Big congratulations to our 45th and now 47th President on an extraordinary political comeback and decisive victory. No nation has bigger opportunities. Wishing @realDonaldTrump all success in leading and uniting the America we all love.",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 5338,
+            "reply_count": 16652,
+            "retweet_count": 19190,
+            "retweeted": false,
+            "user_id_str": "15506669",
+            "id_str": "1854184441511571765"
+        },
+        "quick_promote_eligibility": {
+            "eligibility": "IneligibleUserUnauthorized"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "1457720343297019909",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoxNTUwNjY2OQ==",
+                    "rest_id": "15506669",
+                    "affiliates_highlighted_label": {
+                        "label": {
+                            "url": {
+                                "url": "https://twitter.com/amazon",
+                                "urlType": "DeepLink"
+                            },
+                            "badge": {
+                                "url": "https://pbs.twimg.com/profile_images/1722015850168037376/OiNYYeZQ_bigger.jpg"
+                            },
+                            "description": "Amazon",
+                            "userLabelType": "BusinessLabel",
+                            "userLabelDisplayType": "Badge"
+                        }
+                    },
+                    "parody_commentary_fan_label": "None",
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Circle",
+                    "legacy": {
+                        "created_at": "Sun Jul 20 22:38:36 +0000 2008",
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "description": "Amazon. Blue Origin. Washington Post. Bezos Earth Fund. Bezos Academy.",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "hoo.be/jeffbezos",
+                                        "expanded_url": "https://hoo.be/jeffbezos",
+                                        "url": "https://t.co/SLz7tTMkas",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 475,
+                        "followers_count": 6793453,
+                        "friends_count": 422,
+                        "has_custom_timelines": false,
+                        "is_translator": false,
+                        "listed_count": 12766,
+                        "location": "",
+                        "media_count": 186,
+                        "name": "Jeff Bezos",
+                        "normal_followers_count": 6793453,
+                        "pinned_tweet_ids_str": [
+                            "1283508547897171969"
+                        ],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15506669/1448361938",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "JeffBezos",
+                        "statuses_count": 448,
+                        "translator_type": "none",
+                        "url": "https://t.co/SLz7tTMkas",
+                        "verified": false,
+                        "withheld_in_countries": []
+                    },
+                    "tipjar_settings": {
+                        "is_enabled": false,
+                        "bandcamp_handle": "",
+                        "bitcoin_handle": "",
+                        "cash_app_handle": "",
+                        "ethereum_handle": "",
+                        "gofundme_handle": "",
+                        "patreon_handle": "",
+                        "pay_pal_handle": "",
+                        "venmo_handle": ""
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": [
+                "1457720343297019909"
+            ],
+            "editable_until_msecs": "1636384387633",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "grok_analysis_button": false,
+        "quoted_status_result": {
+            "result": {
+                "__typename": "Tweet",
+                "rest_id": "1457465550750330883",
+                "core": {
+                    "user_results": {
+                        "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoyMjYzNzk3NA==",
+                            "rest_id": "22637974",
+                            "affiliates_highlighted_label": {},
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": true,
+                            "profile_image_shape": "Square",
+                            "legacy": {
+                                "created_at": "Tue Mar 03 16:01:13 +0000 2009",
+                                "default_profile": false,
+                                "default_profile_image": false,
+                                "description": "Viva La Stool",
+                                "entities": {
+                                    "description": {
+                                        "urls": []
+                                    },
+                                    "url": {
+                                        "urls": [
+                                            {
+                                                "display_url": "Barstoolsports.com",
+                                                "expanded_url": "http://Barstoolsports.com",
+                                                "url": "https://t.co/jbn01glCsp",
+                                                "indices": [
+                                                    0,
+                                                    23
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                },
+                                "fast_followers_count": 0,
+                                "favourites_count": 5708,
+                                "followers_count": 6284084,
+                                "friends_count": 709,
+                                "has_custom_timelines": true,
+                                "is_translator": false,
+                                "listed_count": 8709,
+                                "location": "America",
+                                "media_count": 143858,
+                                "name": "Barstool Sports",
+                                "normal_followers_count": 6284084,
+                                "pinned_tweet_ids_str": [
+                                    "1888786737394032647"
+                                ],
+                                "possibly_sensitive": false,
+                                "profile_banner_url": "https://pbs.twimg.com/profile_banners/22637974/1723410578",
+                                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1222128514624892935/zC0ABl3m_normal.jpg",
+                                "profile_interstitial_type": "",
+                                "screen_name": "barstoolsports",
+                                "statuses_count": 167147,
+                                "translator_type": "none",
+                                "url": "https://t.co/jbn01glCsp",
+                                "verified": false,
+                                "verified_type": "Business",
+                                "withheld_in_countries": []
+                            },
+                            "professional": {
+                                "rest_id": "1463152831179886596",
+                                "professional_type": "Business",
+                                "category": []
+                            },
+                            "tipjar_settings": {
+                                "is_enabled": false,
+                                "bandcamp_handle": "",
+                                "bitcoin_handle": "",
+                                "cash_app_handle": "",
+                                "ethereum_handle": "",
+                                "gofundme_handle": "",
+                                "patreon_handle": "",
+                                "pay_pal_handle": "",
+                                "venmo_handle": ""
+                            }
+                        }
+                    }
+                },
+                "unmention_data": {},
+                "edit_control": {
+                    "edit_tweet_ids": [
+                        "1457465550750330883"
+                    ],
+                    "editable_until_msecs": "1636323640356",
+                    "is_edit_eligible": true,
+                    "edits_remaining": "5"
+                },
+                "is_translatable": false,
+                "views": {
+                    "state": "Enabled"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "grok_analysis_button": false,
+                "legacy": {
+                    "bookmark_count": 759,
+                    "bookmarked": false,
+                    "created_at": "Sun Nov 07 21:50:40 +0000 2021",
+                    "conversation_id_str": "1457465550750330883",
+                    "display_text_range": [
+                        0,
+                        48
+                    ],
+                    "entities": {
+                        "hashtags": [],
+                        "media": [
+                            {
+                                "display_url": "pic.x.com/PkwcRcoFvS",
+                                "expanded_url": "https://x.com/2cooI2blog/status/1457245864271953920/video/1",
+                                "id_str": "1457245836606324736",
+                                "indices": [
+                                    25,
+                                    48
+                                ],
+                                "media_key": "7_1457245836606324736",
+                                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1457245836606324736/pu/img/EOCvhNiyAanLa19H.jpg",
+                                "source_status_id_str": "1457245864271953920",
+                                "source_user_id_str": "1423346484456665091",
+                                "type": "video",
+                                "url": "https://t.co/PkwcRcoFvS",
+                                "additional_media_info": {
+                                    "monetizable": false,
+                                    "source_user": {
+                                        "user_results": {
+                                            "result": {
+                                                "__typename": "User",
+                                                "id": "VXNlcjoxNDIzMzQ2NDg0NDU2NjY1MDkx",
+                                                "rest_id": "1423346484456665091",
+                                                "affiliates_highlighted_label": {},
+                                                "parody_commentary_fan_label": "None",
+                                                "is_blue_verified": false,
+                                                "profile_image_shape": "Circle",
+                                                "legacy": {
+                                                    "created_at": "Thu Aug 05 18:13:48 +0000 2021",
+                                                    "default_profile": true,
+                                                    "default_profile_image": false,
+                                                    "description": "TURN ON POST NOTIFICATIONS \ud83d\udd25 \ud83d\udea8 Business Email 2Cool2blog@Gmail.com @2Cool2Blog",
+                                                    "entities": {
+                                                        "description": {
+                                                            "urls": []
+                                                        },
+                                                        "url": {
+                                                            "urls": [
+                                                                {
+                                                                    "display_url": "m.youtube.com/c/2cool2Blog",
+                                                                    "expanded_url": "https://m.youtube.com/c/2cool2Blog",
+                                                                    "url": "https://t.co/mjp07zWkfJ",
+                                                                    "indices": [
+                                                                        0,
+                                                                        23
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    },
+                                                    "fast_followers_count": 0,
+                                                    "favourites_count": 79,
+                                                    "followers_count": 4941,
+                                                    "friends_count": 1,
+                                                    "has_custom_timelines": true,
+                                                    "is_translator": false,
+                                                    "listed_count": 0,
+                                                    "location": "New Twitter @2cool2Blog",
+                                                    "media_count": 4517,
+                                                    "name": "2Cool2Blog",
+                                                    "normal_followers_count": 4941,
+                                                    "pinned_tweet_ids_str": [
+                                                        "1457245864271953920"
+                                                    ],
+                                                    "possibly_sensitive": false,
+                                                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1423346591931437059/kEupAPEQ_normal.jpg",
+                                                    "profile_interstitial_type": "",
+                                                    "screen_name": "2Cool2BlogTV",
+                                                    "statuses_count": 6840,
+                                                    "translator_type": "none",
+                                                    "url": "https://t.co/mjp07zWkfJ",
+                                                    "verified": false,
+                                                    "withheld_in_countries": []
+                                                },
+                                                "professional": {
+                                                    "rest_id": "1588973377112477697",
+                                                    "professional_type": "Business",
+                                                    "category": [
+                                                        {
+                                                            "id": 579,
+                                                            "name": "Media & News",
+                                                            "icon_name": "IconBriefcaseStroke"
+                                                        }
+                                                    ]
+                                                },
+                                                "tipjar_settings": {
+                                                    "is_enabled": false,
+                                                    "bandcamp_handle": "",
+                                                    "bitcoin_handle": "",
+                                                    "cash_app_handle": "",
+                                                    "ethereum_handle": "",
+                                                    "gofundme_handle": "",
+                                                    "patreon_handle": "",
+                                                    "pay_pal_handle": "",
+                                                    "venmo_handle": ""
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "ext_media_availability": {
+                                    "status": "Available"
+                                },
+                                "sizes": {
+                                    "large": {
+                                        "h": 798,
+                                        "w": 638,
+                                        "resize": "fit"
+                                    },
+                                    "medium": {
+                                        "h": 798,
+                                        "w": 638,
+                                        "resize": "fit"
+                                    },
+                                    "small": {
+                                        "h": 680,
+                                        "w": 544,
+                                        "resize": "fit"
+                                    },
+                                    "thumb": {
+                                        "h": 150,
+                                        "w": 150,
+                                        "resize": "crop"
+                                    }
+                                },
+                                "original_info": {
+                                    "height": 798,
+                                    "width": 638,
+                                    "focus_rects": []
+                                },
+                                "video_info": {
+                                    "aspect_ratio": [
+                                        319,
+                                        399
+                                    ],
+                                    "duration_millis": 6366,
+                                    "variants": [
+                                        {
+                                            "content_type": "application/x-mpegURL",
+                                            "url": "https://video.twimg.com/ext_tw_video/1457245836606324736/pu/pl/LUCj-PbJzCqxuPt0.m3u8?tag=12&v=44b"
+                                        },
+                                        {
+                                            "bitrate": 632000,
+                                            "content_type": "video/mp4",
+                                            "url": "https://video.twimg.com/ext_tw_video/1457245836606324736/pu/vid/320x400/0Dn2_L3rSmL92Vpt.mp4?tag=12"
+                                        },
+                                        {
+                                            "bitrate": 950000,
+                                            "content_type": "video/mp4",
+                                            "url": "https://video.twimg.com/ext_tw_video/1457245836606324736/pu/vid/480x600/NQonfn0lnyYwlNcl.mp4?tag=12"
+                                        },
+                                        {
+                                            "bitrate": 2176000,
+                                            "content_type": "video/mp4",
+                                            "url": "https://video.twimg.com/ext_tw_video/1457245836606324736/pu/vid/638x798/nPvNXR5jCB6zj35M.mp4?tag=12"
+                                        }
+                                    ]
+                                },
+                                "media_results": {
+                                    "result": {
+                                        "media_key": "7_1457245836606324736"
+                                    }
+                                }
+                            }
+                        ],
+                        "symbols": [],
+                        "timestamps": [],
+                        "urls": [],
+                        "user_mentions": []
+                    },
+                    "extended_entities": {
+                        "media": [
+                            {
+                                "display_url": "pic.x.com/PkwcRcoFvS",
+                                "expanded_url": "https://x.com/2cooI2blog/status/1457245864271953920/video/1",
+                                "id_str": "1457245836606324736",
+                                "indices": [
+                                    25,
+                                    48
+                                ],
+                                "media_key": "7_1457245836606324736",
+                                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1457245836606324736/pu/img/EOCvhNiyAanLa19H.jpg",
+                                "source_status_id_str": "1457245864271953920",
+                                "source_user_id_str": "1423346484456665091",
+                                "type": "video",
+                                "url": "https://t.co/PkwcRcoFvS",
+                                "additional_media_info": {
+                                    "monetizable": false,
+                                    "source_user": {
+                                        "user_results": {
+                                            "result": {
+                                                "__typename": "User",
+                                                "id": "VXNlcjoxNDIzMzQ2NDg0NDU2NjY1MDkx",
+                                                "rest_id": "1423346484456665091",
+                                                "affiliates_highlighted_label": {},
+                                                "parody_commentary_fan_label": "None",
+                                                "is_blue_verified": false,
+                                                "profile_image_shape": "Circle",
+                                                "legacy": {
+                                                    "created_at": "Thu Aug 05 18:13:48 +0000 2021",
+                                                    "default_profile": true,
+                                                    "default_profile_image": false,
+                                                    "description": "TURN ON POST NOTIFICATIONS \ud83d\udd25 \ud83d\udea8 Business Email 2Cool2blog@Gmail.com @2Cool2Blog",
+                                                    "entities": {
+                                                        "description": {
+                                                            "urls": []
+                                                        },
+                                                        "url": {
+                                                            "urls": [
+                                                                {
+                                                                    "display_url": "m.youtube.com/c/2cool2Blog",
+                                                                    "expanded_url": "https://m.youtube.com/c/2cool2Blog",
+                                                                    "url": "https://t.co/mjp07zWkfJ",
+                                                                    "indices": [
+                                                                        0,
+                                                                        23
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    },
+                                                    "fast_followers_count": 0,
+                                                    "favourites_count": 79,
+                                                    "followers_count": 4941,
+                                                    "friends_count": 1,
+                                                    "has_custom_timelines": true,
+                                                    "is_translator": false,
+                                                    "listed_count": 0,
+                                                    "location": "New Twitter @2cool2Blog",
+                                                    "media_count": 4517,
+                                                    "name": "2Cool2Blog",
+                                                    "normal_followers_count": 4941,
+                                                    "pinned_tweet_ids_str": [
+                                                        "1457245864271953920"
+                                                    ],
+                                                    "possibly_sensitive": false,
+                                                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1423346591931437059/kEupAPEQ_normal.jpg",
+                                                    "profile_interstitial_type": "",
+                                                    "screen_name": "2Cool2BlogTV",
+                                                    "statuses_count": 6840,
+                                                    "translator_type": "none",
+                                                    "url": "https://t.co/mjp07zWkfJ",
+                                                    "verified": false,
+                                                    "withheld_in_countries": []
+                                                },
+                                                "professional": {
+                                                    "rest_id": "1588973377112477697",
+                                                    "professional_type": "Business",
+                                                    "category": [
+                                                        {
+                                                            "id": 579,
+                                                            "name": "Media & News",
+                                                            "icon_name": "IconBriefcaseStroke"
+                                                        }
+                                                    ]
+                                                },
+                                                "tipjar_settings": {
+                                                    "is_enabled": false,
+                                                    "bandcamp_handle": "",
+                                                    "bitcoin_handle": "",
+                                                    "cash_app_handle": "",
+                                                    "ethereum_handle": "",
+                                                    "gofundme_handle": "",
+                                                    "patreon_handle": "",
+                                                    "pay_pal_handle": "",
+                                                    "venmo_handle": ""
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "ext_media_availability": {
+                                    "status": "Available"
+                                },
+                                "sizes": {
+                                    "large": {
+                                        "h": 798,
+                                        "w": 638,
+                                        "resize": "fit"
+                                    },
+                                    "medium": {
+                                        "h": 798,
+                                        "w": 638,
+                                        "resize": "fit"
+                                    },
+                                    "small": {
+                                        "h": 680,
+                                        "w": 544,
+                                        "resize": "fit"
+                                    },
+                                    "thumb": {
+                                        "h": 150,
+                                        "w": 150,
+                                        "resize": "crop"
+                                    }
+                                },
+                                "original_info": {
+                                    "height": 798,
+                                    "width": 638,
+                                    "focus_rects": []
+                                },
+                                "video_info": {
+                                    "aspect_ratio": [
+                                        319,
+                                        399
+                                    ],
+                                    "duration_millis": 6366,
+                                    "variants": [
+                                        {
+                                            "content_type": "application/x-mpegURL",
+                                            "url": "https://video.twimg.com/ext_tw_video/1457245836606324736/pu/pl/LUCj-PbJzCqxuPt0.m3u8?tag=12&v=44b"
+                                        },
+                                        {
+                                            "bitrate": 632000,
+                                            "content_type": "video/mp4",
+                                            "url": "https://video.twimg.com/ext_tw_video/1457245836606324736/pu/vid/320x400/0Dn2_L3rSmL92Vpt.mp4?tag=12"
+                                        },
+                                        {
+                                            "bitrate": 950000,
+                                            "content_type": "video/mp4",
+                                            "url": "https://video.twimg.com/ext_tw_video/1457245836606324736/pu/vid/480x600/NQonfn0lnyYwlNcl.mp4?tag=12"
+                                        },
+                                        {
+                                            "bitrate": 2176000,
+                                            "content_type": "video/mp4",
+                                            "url": "https://video.twimg.com/ext_tw_video/1457245836606324736/pu/vid/638x798/nPvNXR5jCB6zj35M.mp4?tag=12"
+                                        }
+                                    ]
+                                },
+                                "media_results": {
+                                    "result": {
+                                        "media_key": "7_1457245836606324736"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "favorite_count": 30860,
+                    "favorited": false,
+                    "full_text": "Leo is Mr. Steal Yo Girl https://t.co/PkwcRcoFvS",
+                    "is_quote_status": false,
+                    "lang": "en",
+                    "possibly_sensitive": false,
+                    "possibly_sensitive_editable": true,
+                    "quote_count": 1237,
+                    "reply_count": 1192,
+                    "retweet_count": 2102,
+                    "retweeted": false,
+                    "user_id_str": "22637974",
+                    "id_str": "1457465550750330883"
+                }
+            }
+        },
+        "legacy": {
+            "bookmark_count": 4425,
+            "bookmarked": false,
+            "created_at": "Mon Nov 08 14:43:07 +0000 2021",
+            "conversation_id_str": "1457720343297019909",
+            "display_text_range": [
+                0,
+                63
+            ],
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.x.com/KqGLB839NI",
+                        "expanded_url": "https://x.com/JeffBezos/status/1457720343297019909/photo/1",
+                        "id_str": "1457720338603655169",
+                        "indices": [
+                            64,
+                            87
+                        ],
+                        "media_key": "3_1457720338603655169",
+                        "media_url_https": "https://pbs.twimg.com/media/FDrc7LRVQAEMGv2.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/KqGLB839NI",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 92,
+                                        "y": 1300,
+                                        "h": 68,
+                                        "w": 68
+                                    },
+                                    {
+                                        "x": 17,
+                                        "y": 50,
+                                        "h": 509,
+                                        "w": 509
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 69,
+                                        "y": 975,
+                                        "h": 51,
+                                        "w": 51
+                                    },
+                                    {
+                                        "x": 12,
+                                        "y": 37,
+                                        "h": 381,
+                                        "w": 381
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 39,
+                                        "y": 552,
+                                        "h": 28,
+                                        "w": 28
+                                    },
+                                    {
+                                        "x": 7,
+                                        "y": 21,
+                                        "h": 216,
+                                        "w": 216
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 92,
+                                        "y": 1300,
+                                        "h": 68,
+                                        "w": 68
+                                    },
+                                    {
+                                        "x": 17,
+                                        "y": 50,
+                                        "h": 509,
+                                        "w": 509
+                                    }
+                                ]
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 1600,
+                                "w": 1200,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "w": 900,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 680,
+                                "w": 510,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 1600,
+                            "width": 1200,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 664,
+                                    "w": 1200,
+                                    "h": 672
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 400,
+                                    "w": 1200,
+                                    "h": 1200
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 232,
+                                    "w": 1200,
+                                    "h": 1368
+                                },
+                                {
+                                    "x": 200,
+                                    "y": 0,
+                                    "w": 800,
+                                    "h": 1600
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1200,
+                                    "h": 1600
+                                }
+                            ]
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_1457720338603655169"
+                            }
+                        }
+                    }
+                ],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id_str": "133880286",
+                        "name": "Leonardo DiCaprio",
+                        "screen_name": "LeoDiCaprio",
+                        "indices": [
+                            51,
+                            63
+                        ]
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.x.com/KqGLB839NI",
+                        "expanded_url": "https://x.com/JeffBezos/status/1457720343297019909/photo/1",
+                        "id_str": "1457720338603655169",
+                        "indices": [
+                            64,
+                            87
+                        ],
+                        "media_key": "3_1457720338603655169",
+                        "media_url_https": "https://pbs.twimg.com/media/FDrc7LRVQAEMGv2.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/KqGLB839NI",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 92,
+                                        "y": 1300,
+                                        "h": 68,
+                                        "w": 68
+                                    },
+                                    {
+                                        "x": 17,
+                                        "y": 50,
+                                        "h": 509,
+                                        "w": 509
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 69,
+                                        "y": 975,
+                                        "h": 51,
+                                        "w": 51
+                                    },
+                                    {
+                                        "x": 12,
+                                        "y": 37,
+                                        "h": 381,
+                                        "w": 381
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 39,
+                                        "y": 552,
+                                        "h": 28,
+                                        "w": 28
+                                    },
+                                    {
+                                        "x": 7,
+                                        "y": 21,
+                                        "h": 216,
+                                        "w": 216
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 92,
+                                        "y": 1300,
+                                        "h": 68,
+                                        "w": 68
+                                    },
+                                    {
+                                        "x": 17,
+                                        "y": 50,
+                                        "h": 509,
+                                        "w": 509
+                                    }
+                                ]
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 1600,
+                                "w": 1200,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "w": 900,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 680,
+                                "w": 510,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 1600,
+                            "width": 1200,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 664,
+                                    "w": 1200,
+                                    "h": 672
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 400,
+                                    "w": 1200,
+                                    "h": 1200
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 232,
+                                    "w": 1200,
+                                    "h": 1368
+                                },
+                                {
+                                    "x": 200,
+                                    "y": 0,
+                                    "w": 800,
+                                    "h": 1600
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1200,
+                                    "h": 1600
+                                }
+                            ]
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_1457720338603655169"
+                            }
+                        }
+                    }
+                ]
+            },
+            "favorite_count": 241786,
+            "favorited": false,
+            "full_text": "Leo, come over here, I want to show you something\u2026 @LeoDiCaprio https://t.co/KqGLB839NI",
+            "is_quote_status": true,
+            "lang": "en",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 20811,
+            "quoted_status_id_str": "1457465550750330883",
+            "quoted_status_permalink": {
+                "url": "https://t.co/Gt2v9JZTNz",
+                "expanded": "https://twitter.com/barstoolsports/status/1457465550750330883",
+                "display": "x.com/barstoolsports\u2026"
+            },
+            "reply_count": 7987,
+            "retweet_count": 38259,
+            "retweeted": false,
+            "user_id_str": "15506669",
+            "id_str": "1457720343297019909"
+        },
+        "quick_promote_eligibility": {
+            "eligibility": "IneligibleUserUnauthorized"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "1812315786507088370",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoxNTUwNjY2OQ==",
+                    "rest_id": "15506669",
+                    "affiliates_highlighted_label": {
+                        "label": {
+                            "url": {
+                                "url": "https://twitter.com/amazon",
+                                "urlType": "DeepLink"
+                            },
+                            "badge": {
+                                "url": "https://pbs.twimg.com/profile_images/1722015850168037376/OiNYYeZQ_bigger.jpg"
+                            },
+                            "description": "Amazon",
+                            "userLabelType": "BusinessLabel",
+                            "userLabelDisplayType": "Badge"
+                        }
+                    },
+                    "parody_commentary_fan_label": "None",
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Circle",
+                    "legacy": {
+                        "created_at": "Sun Jul 20 22:38:36 +0000 2008",
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "description": "Amazon. Blue Origin. Washington Post. Bezos Earth Fund. Bezos Academy.",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "hoo.be/jeffbezos",
+                                        "expanded_url": "https://hoo.be/jeffbezos",
+                                        "url": "https://t.co/SLz7tTMkas",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 475,
+                        "followers_count": 6793453,
+                        "friends_count": 422,
+                        "has_custom_timelines": false,
+                        "is_translator": false,
+                        "listed_count": 12766,
+                        "location": "",
+                        "media_count": 186,
+                        "name": "Jeff Bezos",
+                        "normal_followers_count": 6793453,
+                        "pinned_tweet_ids_str": [
+                            "1283508547897171969"
+                        ],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15506669/1448361938",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "JeffBezos",
+                        "statuses_count": 448,
+                        "translator_type": "none",
+                        "url": "https://t.co/SLz7tTMkas",
+                        "verified": false,
+                        "withheld_in_countries": []
+                    },
+                    "tipjar_settings": {
+                        "is_enabled": false,
+                        "bandcamp_handle": "",
+                        "bitcoin_handle": "",
+                        "cash_app_handle": "",
+                        "ethereum_handle": "",
+                        "gofundme_handle": "",
+                        "patreon_handle": "",
+                        "pay_pal_handle": "",
+                        "venmo_handle": ""
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": [
+                "1812315786507088370"
+            ],
+            "editable_until_msecs": "1720928329000",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "count": "14687202",
+            "state": "EnabledWithCount"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "grok_analysis_button": true,
+        "legacy": {
+            "bookmark_count": 4120,
+            "bookmarked": false,
+            "created_at": "Sun Jul 14 02:38:49 +0000 2024",
+            "conversation_id_str": "1812315786507088370",
+            "display_text_range": [
+                0,
+                158
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 214834,
+            "favorited": false,
+            "full_text": "Our former President showed tremendous grace and courage under literal fire tonight. So thankful for his safety and so sad for the victims and their families.",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 1352,
+            "reply_count": 11822,
+            "retweet_count": 12605,
+            "retweeted": false,
+            "user_id_str": "15506669",
+            "id_str": "1812315786507088370"
+        },
+        "quick_promote_eligibility": {
+            "eligibility": "IneligibleUserUnauthorized"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "1564006036037521408",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoxNTUwNjY2OQ==",
+                    "rest_id": "15506669",
+                    "affiliates_highlighted_label": {
+                        "label": {
+                            "url": {
+                                "url": "https://twitter.com/amazon",
+                                "urlType": "DeepLink"
+                            },
+                            "badge": {
+                                "url": "https://pbs.twimg.com/profile_images/1722015850168037376/OiNYYeZQ_bigger.jpg"
+                            },
+                            "description": "Amazon",
+                            "userLabelType": "BusinessLabel",
+                            "userLabelDisplayType": "Badge"
+                        }
+                    },
+                    "parody_commentary_fan_label": "None",
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Circle",
+                    "legacy": {
+                        "created_at": "Sun Jul 20 22:38:36 +0000 2008",
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "description": "Amazon. Blue Origin. Washington Post. Bezos Earth Fund. Bezos Academy.",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "hoo.be/jeffbezos",
+                                        "expanded_url": "https://hoo.be/jeffbezos",
+                                        "url": "https://t.co/SLz7tTMkas",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 475,
+                        "followers_count": 6793453,
+                        "friends_count": 422,
+                        "has_custom_timelines": false,
+                        "is_translator": false,
+                        "listed_count": 12766,
+                        "location": "",
+                        "media_count": 186,
+                        "name": "Jeff Bezos",
+                        "normal_followers_count": 6793453,
+                        "pinned_tweet_ids_str": [
+                            "1283508547897171969"
+                        ],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15506669/1448361938",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "JeffBezos",
+                        "statuses_count": 448,
+                        "translator_type": "none",
+                        "url": "https://t.co/SLz7tTMkas",
+                        "verified": false,
+                        "withheld_in_countries": []
+                    },
+                    "tipjar_settings": {
+                        "is_enabled": false,
+                        "bandcamp_handle": "",
+                        "bitcoin_handle": "",
+                        "cash_app_handle": "",
+                        "ethereum_handle": "",
+                        "gofundme_handle": "",
+                        "patreon_handle": "",
+                        "pay_pal_handle": "",
+                        "venmo_handle": ""
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": [
+                "1564006036037521408"
+            ],
+            "editable_until_msecs": "1661724871000",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "grok_analysis_button": true,
+        "legacy": {
+            "bookmark_count": 1495,
+            "bookmarked": false,
+            "created_at": "Sun Aug 28 21:44:31 +0000 2022",
+            "conversation_id_str": "1564006036037521408",
+            "display_text_range": [
+                0,
+                60
+            ],
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.x.com/3slx6dHUVa",
+                        "expanded_url": "https://x.com/JeffBezos/status/1564006036037521408/photo/1",
+                        "id_str": "1564006031113392128",
+                        "indices": [
+                            61,
+                            84
+                        ],
+                        "media_key": "3_1564006031113392128",
+                        "media_url_https": "https://pbs.twimg.com/media/FbR3MucVEAAJuAa.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/3slx6dHUVa",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": []
+                            },
+                            "medium": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            },
+                            "orig": {
+                                "faces": []
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 1619,
+                                "w": 1172,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "w": 869,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 680,
+                                "w": 492,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 1619,
+                            "width": 1172,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 924,
+                                    "w": 1172,
+                                    "h": 656
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 447,
+                                    "w": 1172,
+                                    "h": 1172
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 283,
+                                    "w": 1172,
+                                    "h": 1336
+                                },
+                                {
+                                    "x": 120,
+                                    "y": 0,
+                                    "w": 810,
+                                    "h": 1619
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1172,
+                                    "h": 1619
+                                }
+                            ]
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_1564006031113392128"
+                            }
+                        }
+                    }
+                ],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.x.com/3slx6dHUVa",
+                        "expanded_url": "https://x.com/JeffBezos/status/1564006036037521408/photo/1",
+                        "id_str": "1564006031113392128",
+                        "indices": [
+                            61,
+                            84
+                        ],
+                        "media_key": "3_1564006031113392128",
+                        "media_url_https": "https://pbs.twimg.com/media/FbR3MucVEAAJuAa.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/3slx6dHUVa",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": []
+                            },
+                            "medium": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            },
+                            "orig": {
+                                "faces": []
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 1619,
+                                "w": 1172,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "w": 869,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 680,
+                                "w": 492,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 1619,
+                            "width": 1172,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 924,
+                                    "w": 1172,
+                                    "h": 656
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 447,
+                                    "w": 1172,
+                                    "h": 1172
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 283,
+                                    "w": 1172,
+                                    "h": 1336
+                                },
+                                {
+                                    "x": 120,
+                                    "y": 0,
+                                    "w": 810,
+                                    "h": 1619
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1172,
+                                    "h": 1619
+                                }
+                            ]
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_1564006031113392128"
+                            }
+                        }
+                    }
+                ]
+            },
+            "favorite_count": 190747,
+            "favorited": false,
+            "full_text": "My first job. And still the same great burger. Happy Sunday! https://t.co/3slx6dHUVa",
+            "is_quote_status": false,
+            "lang": "en",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 4412,
+            "reply_count": 10460,
+            "retweet_count": 8158,
+            "retweeted": false,
+            "user_id_str": "15506669",
+            "id_str": "1564006036037521408"
+        },
+        "quick_promote_eligibility": {
+            "eligibility": "IneligibleUserUnauthorized"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "1543409762867494912",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoxNTUwNjY2OQ==",
+                    "rest_id": "15506669",
+                    "affiliates_highlighted_label": {
+                        "label": {
+                            "url": {
+                                "url": "https://twitter.com/amazon",
+                                "urlType": "DeepLink"
+                            },
+                            "badge": {
+                                "url": "https://pbs.twimg.com/profile_images/1722015850168037376/OiNYYeZQ_bigger.jpg"
+                            },
+                            "description": "Amazon",
+                            "userLabelType": "BusinessLabel",
+                            "userLabelDisplayType": "Badge"
+                        }
+                    },
+                    "parody_commentary_fan_label": "None",
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Circle",
+                    "legacy": {
+                        "created_at": "Sun Jul 20 22:38:36 +0000 2008",
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "description": "Amazon. Blue Origin. Washington Post. Bezos Earth Fund. Bezos Academy.",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "hoo.be/jeffbezos",
+                                        "expanded_url": "https://hoo.be/jeffbezos",
+                                        "url": "https://t.co/SLz7tTMkas",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 475,
+                        "followers_count": 6793453,
+                        "friends_count": 422,
+                        "has_custom_timelines": false,
+                        "is_translator": false,
+                        "listed_count": 12766,
+                        "location": "",
+                        "media_count": 186,
+                        "name": "Jeff Bezos",
+                        "normal_followers_count": 6793453,
+                        "pinned_tweet_ids_str": [
+                            "1283508547897171969"
+                        ],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15506669/1448361938",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "JeffBezos",
+                        "statuses_count": 448,
+                        "translator_type": "none",
+                        "url": "https://t.co/SLz7tTMkas",
+                        "verified": false,
+                        "withheld_in_countries": []
+                    },
+                    "tipjar_settings": {
+                        "is_enabled": false,
+                        "bandcamp_handle": "",
+                        "bitcoin_handle": "",
+                        "cash_app_handle": "",
+                        "ethereum_handle": "",
+                        "gofundme_handle": "",
+                        "patreon_handle": "",
+                        "pay_pal_handle": "",
+                        "venmo_handle": ""
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": [
+                "1543409762867494912"
+            ],
+            "editable_until_msecs": "1656814337000",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "grok_analysis_button": true,
+        "quoted_status_result": {
+            "result": {
+                "__typename": "Tweet",
+                "rest_id": "1543263229006254080",
+                "core": {
+                    "user_results": {
+                        "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxMzQ5MTQ5MDk2OTA5NjY4MzYz",
+                            "rest_id": "1349149096909668363",
+                            "affiliates_highlighted_label": {},
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": true,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                                "created_at": "Wed Jan 13 00:37:08 +0000 2021",
+                                "default_profile": true,
+                                "default_profile_image": false,
+                                "description": "This is an archive of a Biden administration account, maintained by the National Archives and Records Administration.",
+                                "entities": {
+                                    "description": {
+                                        "urls": []
+                                    },
+                                    "url": {
+                                        "urls": [
+                                            {
+                                                "display_url": "bidenlibrary.gov",
+                                                "expanded_url": "http://bidenlibrary.gov",
+                                                "url": "https://t.co/ivRH9GoaBO",
+                                                "indices": [
+                                                    0,
+                                                    23
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                },
+                                "fast_followers_count": 0,
+                                "favourites_count": 18,
+                                "followers_count": 37247152,
+                                "friends_count": 5,
+                                "has_custom_timelines": true,
+                                "is_translator": false,
+                                "listed_count": 27353,
+                                "location": "",
+                                "media_count": 4189,
+                                "name": "President Biden Archived",
+                                "normal_followers_count": 37247152,
+                                "pinned_tweet_ids_str": [
+                                    "1881103089647640813"
+                                ],
+                                "possibly_sensitive": false,
+                                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1349149096909668363/1737058049",
+                                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1380530524779859970/TfwVAbyX_normal.jpg",
+                                "profile_interstitial_type": "",
+                                "screen_name": "POTUS46Archive",
+                                "statuses_count": 10312,
+                                "translator_type": "none",
+                                "url": "https://t.co/ivRH9GoaBO",
+                                "verified": false,
+                                "verified_type": "Government",
+                                "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {
+                                "is_enabled": false,
+                                "bandcamp_handle": "",
+                                "bitcoin_handle": "",
+                                "cash_app_handle": "",
+                                "ethereum_handle": "",
+                                "gofundme_handle": "",
+                                "patreon_handle": "",
+                                "pay_pal_handle": "",
+                                "venmo_handle": ""
+                            }
+                        }
+                    }
+                },
+                "unmention_data": {},
+                "edit_control": {
+                    "edit_tweet_ids": [
+                        "1543263229006254080"
+                    ],
+                    "editable_until_msecs": "1656779400000",
+                    "is_edit_eligible": true,
+                    "edits_remaining": "5"
+                },
+                "is_translatable": false,
+                "views": {
+                    "state": "Enabled"
+                },
+                "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">The White House</a>",
+                "grok_analysis_button": true,
+                "legacy": {
+                    "bookmark_count": 1773,
+                    "bookmarked": false,
+                    "created_at": "Sat Jul 02 16:00:00 +0000 2022",
+                    "conversation_id_str": "1543263229006254080",
+                    "display_text_range": [
+                        0,
+                        248
+                    ],
+                    "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "timestamps": [],
+                        "urls": [],
+                        "user_mentions": []
+                    },
+                    "favorite_count": 132782,
+                    "favorited": false,
+                    "full_text": "My message to the companies running gas stations and setting prices at the pump is simple: this is a time of war and global peril. \n\nBring down the price you are charging at the pump to reflect the cost you\u2019re paying for the product. And do it now.",
+                    "is_quote_status": false,
+                    "lang": "en",
+                    "quote_count": 25243,
+                    "reply_count": 62391,
+                    "retweet_count": 21263,
+                    "retweeted": false,
+                    "user_id_str": "1349149096909668363",
+                    "id_str": "1543263229006254080"
+                }
+            }
+        },
+        "legacy": {
+            "bookmark_count": 2221,
+            "bookmarked": false,
+            "created_at": "Sun Jul 03 01:42:17 +0000 2022",
+            "conversation_id_str": "1543409762867494912",
+            "display_text_range": [
+                0,
+                196
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 176430,
+            "favorited": false,
+            "full_text": "Ouch. Inflation is far too important a problem for the White House to keep making statements like this. It\u2019s either straight ahead misdirection or a deep misunderstanding of basic market dynamics.",
+            "is_quote_status": true,
+            "lang": "en",
+            "quote_count": 6593,
+            "quoted_status_id_str": "1543263229006254080",
+            "quoted_status_permalink": {
+                "url": "https://t.co/XgKfEICZpk",
+                "expanded": "https://twitter.com/POTUS46Archive/status/1543263229006254080",
+                "display": "x.com/POTUS46Archive\u2026"
+            },
+            "reply_count": 20907,
+            "retweet_count": 28497,
+            "retweeted": false,
+            "user_id_str": "15506669",
+            "id_str": "1543409762867494912"
+        },
+        "quick_promote_eligibility": {
+            "eligibility": "IneligibleUserUnauthorized"
+        }
+    }
+]

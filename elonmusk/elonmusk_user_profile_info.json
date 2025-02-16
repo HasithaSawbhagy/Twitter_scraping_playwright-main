@@ -1,17 +1,17 @@
 {
     "__typename": "User",
-    "id": "VXNlcjoxNTUwNjY2OQ==",
-    "rest_id": "15506669",
+    "id": "VXNlcjo0NDE5NjM5Nw==",
+    "rest_id": "44196397",
     "affiliates_highlighted_label": {
         "label": {
             "url": {
-                "url": "https://twitter.com/amazon",
+                "url": "https://twitter.com/X",
                 "urlType": "DeepLink"
             },
             "badge": {
-                "url": "https://pbs.twimg.com/profile_images/1722015850168037376/OiNYYeZQ_bigger.jpg"
+                "url": "https://pbs.twimg.com/profile_images/1683899100922511378/5lY42eHs_bigger.jpg"
             },
-            "description": "Amazon",
+            "description": "X",
             "userLabelType": "BusinessLabel",
             "userLabelDisplayType": "Badge"
         }
@@ -20,52 +20,43 @@
     "is_blue_verified": true,
     "profile_image_shape": "Circle",
     "legacy": {
-        "created_at": "Sun Jul 20 22:38:36 +0000 2008",
-        "default_profile": true,
+        "created_at": "Tue Jun 02 20:12:29 +0000 2009",
+        "default_profile": false,
         "default_profile_image": false,
-        "description": "Amazon. Blue Origin. Washington Post. Bezos Earth Fund. Bezos Academy.",
+        "description": "",
         "entities": {
             "description": {
                 "urls": []
-            },
-            "url": {
-                "urls": [
-                    {
-                        "display_url": "hoo.be/jeffbezos",
-                        "expanded_url": "https://hoo.be/jeffbezos",
-                        "url": "https://t.co/SLz7tTMkas",
-                        "indices": [
-                            0,
-                            23
-                        ]
-                    }
-                ]
             }
         },
         "fast_followers_count": 0,
-        "favourites_count": 475,
-        "followers_count": 6793553,
-        "friends_count": 422,
-        "has_custom_timelines": false,
+        "favourites_count": 124135,
+        "followers_count": 217890962,
+        "friends_count": 1030,
+        "has_custom_timelines": true,
         "is_translator": false,
-        "listed_count": 12767,
+        "listed_count": 160176,
         "location": "",
-        "media_count": 186,
-        "name": "Jeff Bezos",
-        "normal_followers_count": 6793553,
+        "media_count": 3371,
+        "name": "Elon Musk",
+        "normal_followers_count": 217890962,
         "pinned_tweet_ids_str": [
-            "1283508547897171969"
+            "1890958798841389499"
         ],
         "possibly_sensitive": false,
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15506669/1448361938",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1726163678",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1874558173962481664/8HSTqIlD_normal.jpg",
         "profile_interstitial_type": "",
-        "screen_name": "JeffBezos",
-        "statuses_count": 448,
+        "screen_name": "elonmusk",
+        "statuses_count": 70629,
         "translator_type": "none",
-        "url": "https://t.co/SLz7tTMkas",
         "verified": false,
         "withheld_in_countries": []
+    },
+    "professional": {
+        "rest_id": "1679729435447275522",
+        "professional_type": "Creator",
+        "category": []
     },
     "tipjar_settings": {
         "is_enabled": false,
@@ -80,24 +71,24 @@
     },
     "legacy_extended_profile": {},
     "is_profile_translatable": false,
-    "has_hidden_subscriptions_on_profile": false,
+    "has_hidden_subscriptions_on_profile": true,
     "verification_info": {
         "is_identity_verified": false,
         "reason": {
             "description": {
-                "text": "This account is verified because it's an affiliate of @amazon on X. Learn more",
+                "text": "This account is verified because it's an affiliate of @X on X. Learn more",
                 "entities": [
                     {
                         "from_index": 54,
-                        "to_index": 61,
+                        "to_index": 56,
                         "ref": {
-                            "url": "https://twitter.com/amazon",
+                            "url": "https://twitter.com/X",
                             "url_type": "ExternalUrl"
                         }
                     },
                     {
-                        "from_index": 68,
-                        "to_index": 78,
+                        "from_index": 63,
+                        "to_index": 73,
                         "ref": {
                             "url": "https://help.twitter.com/en/rules-and-policies/profile-labels",
                             "url_type": "ExternalUrl"
@@ -105,14 +96,15 @@
                     }
                 ]
             },
-            "verified_since_msec": "1448363725619"
+            "verified_since_msec": "-156836000000000",
+            "override_verified_year": -3000
         }
     },
     "highlights_info": {
         "can_highlight_tweets": true,
-        "highlighted_tweets": "0"
+        "highlighted_tweets": "559"
     },
     "user_seed_tweet_count": 0,
     "business_account": {},
-    "creator_subscriptions_count": 0
+    "creator_subscriptions_count": 204
 }

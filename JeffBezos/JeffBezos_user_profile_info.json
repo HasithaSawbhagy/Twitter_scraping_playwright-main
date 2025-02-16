@@ -1,0 +1,118 @@
+{
+    "__typename": "User",
+    "id": "VXNlcjoxNTUwNjY2OQ==",
+    "rest_id": "15506669",
+    "affiliates_highlighted_label": {
+        "label": {
+            "url": {
+                "url": "https://twitter.com/amazon",
+                "urlType": "DeepLink"
+            },
+            "badge": {
+                "url": "https://pbs.twimg.com/profile_images/1722015850168037376/OiNYYeZQ_bigger.jpg"
+            },
+            "description": "Amazon",
+            "userLabelType": "BusinessLabel",
+            "userLabelDisplayType": "Badge"
+        }
+    },
+    "parody_commentary_fan_label": "None",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "legacy": {
+        "created_at": "Sun Jul 20 22:38:36 +0000 2008",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Amazon. Blue Origin. Washington Post. Bezos Earth Fund. Bezos Academy.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "hoo.be/jeffbezos",
+                        "expanded_url": "https://hoo.be/jeffbezos",
+                        "url": "https://t.co/SLz7tTMkas",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            }
+        },
+        "fast_followers_count": 0,
+        "favourites_count": 475,
+        "followers_count": 6795022,
+        "friends_count": 422,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 12773,
+        "location": "",
+        "media_count": 186,
+        "name": "Jeff Bezos",
+        "normal_followers_count": 6795022,
+        "pinned_tweet_ids_str": [
+            "1283508547897171969"
+        ],
+        "possibly_sensitive": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15506669/1448361938",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_normal.jpg",
+        "profile_interstitial_type": "",
+        "screen_name": "JeffBezos",
+        "statuses_count": 448,
+        "translator_type": "none",
+        "url": "https://t.co/SLz7tTMkas",
+        "verified": false,
+        "withheld_in_countries": []
+    },
+    "tipjar_settings": {
+        "is_enabled": false,
+        "bandcamp_handle": "",
+        "bitcoin_handle": "",
+        "cash_app_handle": "",
+        "ethereum_handle": "",
+        "gofundme_handle": "",
+        "patreon_handle": "",
+        "pay_pal_handle": "",
+        "venmo_handle": ""
+    },
+    "legacy_extended_profile": {},
+    "is_profile_translatable": false,
+    "has_hidden_subscriptions_on_profile": false,
+    "verification_info": {
+        "is_identity_verified": false,
+        "reason": {
+            "description": {
+                "text": "This account is verified because it's an affiliate of @amazon on X. Learn more",
+                "entities": [
+                    {
+                        "from_index": 54,
+                        "to_index": 61,
+                        "ref": {
+                            "url": "https://twitter.com/amazon",
+                            "url_type": "ExternalUrl"
+                        }
+                    },
+                    {
+                        "from_index": 68,
+                        "to_index": 78,
+                        "ref": {
+                            "url": "https://help.twitter.com/en/rules-and-policies/profile-labels",
+                            "url_type": "ExternalUrl"
+                        }
+                    }
+                ]
+            },
+            "verified_since_msec": "1448363725619"
+        }
+    },
+    "highlights_info": {
+        "can_highlight_tweets": true,
+        "highlighted_tweets": "0"
+    },
+    "user_seed_tweet_count": 0,
+    "business_account": {},
+    "creator_subscriptions_count": 0
+}

@@ -5,15 +5,25 @@ from playwright.sync_api import sync_playwright
 import json
 import time
 import os
-import subprocess  # Import the subprocess module
+import subprocess
 import pandas as pd
 
 # --- CONFIGURATION ---
 USERNAMES_FILE = "usernames.txt"
-NUM_POSTS_TO_RETRIEVE = 10
+NUM_POSTS_TO_RETRIEVE = 100
 # --- END CONFIGURATION ---
 
-def scrape_twitter_info(url: str, is_user_profile: bool):
+def scrape_twitter_info(url: str, is_user_profile: bool, timeout_seconds=60):
+    """Scrapes Twitter info with improved timeouts and error handling.
+
+    Args:
+        url: The Twitter URL to scrape.
+        is_user_profile: True to scrape tweets, False for user profile.
+        timeout_seconds: Timeout for the entire scraping process (both page load and data retrieval)
+
+    Returns:
+        Tweet data (list) or user data (dict) if successful, None otherwise.
+    """
     _xhr_calls = []
 
     def intercept_response(response):
@@ -28,19 +38,28 @@ def scrape_twitter_info(url: str, is_user_profile: bool):
         page.on("response", intercept_response)
 
         try:
+            start_time = time.time()  # Overall start time
+
             if is_user_profile:
-                page.goto(url, timeout=60000)
+                try:
+                    page.goto(url, timeout=timeout_seconds * 1000)  # Overall timeout
+                except Exception as e:
+                    print(f"Error loading page {url}: {e}")
+                    return None
+
                 selector = "[data-testid='primaryColumn']"
                 xhr_condition = "UserTweets"
-                page.wait_for_selector(selector, timeout=30000)
+                try:
+                    page.wait_for_selector(selector, timeout=30000)
+                except Exception as e:
+                    print(f"Error waiting for selector on {url}: {e}")
+                    return None
 
                 tweets = []
                 found_ids = set()
-                start_time = time.time()
-                timeout_seconds = 60
                 processed_xhr_calls = set()
 
-                while len(tweets) < NUM_POSTS_TO_RETRIEVE:
+                while len(tweets) < NUM_POSTS_TO_RETRIEVE and time.time() - start_time < timeout_seconds:
                     new_xhr_calls = [f for f in _xhr_calls if xhr_condition in f.url and f not in processed_xhr_calls]
                     for xhr_call in new_xhr_calls:
                         processed_xhr_calls.add(xhr_call)
@@ -74,11 +93,7 @@ def scrape_twitter_info(url: str, is_user_profile: bool):
                         except (KeyError, TypeError, json.JSONDecodeError) as e:
                             continue
 
-                    if time.time() - start_time > timeout_seconds:
-                        print(f"Timeout while collecting tweets for {url}. Collected {len(tweets)} tweets.")
-                        break
-
-                    if len(tweets) < NUM_POSTS_TO_RETRIEVE:
+                    if len(tweets) < NUM_POSTS_TO_RETRIEVE and time.time() - start_time < timeout_seconds :
                         page.mouse.wheel(0, 10000)
                         time.sleep(2)
 
@@ -86,18 +101,22 @@ def scrape_twitter_info(url: str, is_user_profile: bool):
 
             else:
                 try:
-                    page.goto(url, timeout=60000)
+                    page.goto(url, timeout=timeout_seconds * 1000)  # Overall timeout
                 except Exception as e:
                     print(f"Error loading page {url}: {e}")
                     return None
 
                 selector = "[data-testid='primaryColumn']"
                 xhr_condition = "UserByScreenName"
-                page.wait_for_selector(selector, timeout=30000)
+                try:
+                    page.wait_for_selector(selector, timeout=30000)
+                except Exception as e:
+                     print(f"Error waiting for selector on {url}: {e}")
+                     return None
 
-                start_time = time.time()
                 user_data = None
-                while time.time() - start_time < 60 and user_data is None:
+                # Combined loop for waiting and processing, with overall timeout
+                while time.time() - start_time < timeout_seconds and user_data is None:
                     user_calls = [f for f in _xhr_calls if xhr_condition in f.url]
                     for call in user_calls:
                         try:
@@ -108,12 +127,12 @@ def scrape_twitter_info(url: str, is_user_profile: bool):
                                     return user_data
                         except (KeyError, TypeError, json.JSONDecodeError) as e:
                             print(f"Error processing XHR call: {e}, URL: {call.url}")
-                    time.sleep(1)
+                    time.sleep(1)  # Short delay
 
-                return user_data
+                return user_data  # Return whatever we have (might be None)
 
         except Exception as e:
-            print(f"An unexpected error occurred: {e}")
+            print(f"An unexpected error occurred during scraping: {e}")
             return None
         finally:
             context.close()
@@ -141,9 +160,16 @@ def analyze_and_save_tweets(json_filename, output_dir):
         df['above_average_engagement'] = (df['above_avg_favorite'] | df['above_avg_retweet'] | df['above_avg_reply'])
         return df, avg_favorite, avg_retweet, avg_reply
 
-    with open(json_filename, "r") as json_file:
-        data_tweets = json.load(json_file)
+    try: # Added try-except to loading json file
+        with open(json_filename, "r") as json_file:
+            data_tweets = json.load(json_file)
+    except (FileNotFoundError, json.JSONDecodeError) as e:
+        print(f"Error loading or decoding JSON from {json_filename}: {e}")
+        return
 
+    if not data_tweets: # Added condition to avoid errors
+        print(f"No tweets to analyze in {json_filename}")
+        return
     tweet_key_to_key_mapping = {
         "favorite_count": "legacy.favorite_count",
         "full_text": "legacy.full_text",
@@ -162,6 +188,9 @@ def analyze_and_save_tweets(json_filename, output_dir):
         tweets_list.append(tweet_json)
 
     tweets_df = pd.DataFrame(tweets_list)
+    if tweets_df.empty: # Added condition to avoid errors
+        print(f'No tweets to analyze in {json_filename}')
+        return
     tweets_df, avg_favorite, avg_retweet, avg_reply = analyze_tweets(tweets_df)
 
     tweets_df['average_favorite_count'] = avg_favorite
@@ -191,7 +220,6 @@ def analyze_and_save_tweets(json_filename, output_dir):
     print("\nAnalysis Columns (Optional):")
     print(tweets_df[['above_avg_favorite', 'above_avg_retweet', 'above_avg_reply', 'above_average_engagement']])
 
-
 def main():
     try:
         with open(USERNAMES_FILE, "r") as f:
@@ -208,24 +236,39 @@ def main():
         profile_url = f"https://x.com/{username}"
         print(f"Scraping data for: {username}")
 
-        # Create a directory for the user
-        user_dir = os.path.join(".", username)  # Or wherever you want to store the data
-        os.makedirs(user_dir, exist_ok=True)  # Create directory if it doesn't exist
+        user_dir = os.path.join(".", username)
+        os.makedirs(user_dir, exist_ok=True)
 
-        # Scrape tweets and save to the user's directory
         tweets_filename = os.path.join(user_dir, f"{username}_first_{NUM_POSTS_TO_RETRIEVE}_tweets.json")
-        with open(tweets_filename, "w") as f:
-            json.dump(scrape_twitter_info(profile_url, True), f, indent=4)
-
-        # Scrape user profile and save to the user's directory
         profile_filename = os.path.join(user_dir, f"{username}_user_profile_info.json")
-        with open(profile_filename, "w") as f:
-            json.dump(scrape_twitter_info(profile_url, False), f, indent=4)
 
-        print(f"Data for {username} saved to {user_dir}")
+        # Scrape tweets
+        tweets_data = scrape_twitter_info(profile_url, True)
+        if tweets_data is not None:  # Check if scraping was successful
+            with open(tweets_filename, "w") as f:
+                json.dump(tweets_data, f, indent=4)
 
-        # Analyze and save tweets (using the function)
-        analyze_and_save_tweets(tweets_filename, user_dir)
+            # Analyze and save tweets (only if tweets were scraped)
+            analyze_and_save_tweets(tweets_filename, user_dir)
+        else:
+            print(f"Skipping analysis for {username} due to scraping failure.")
+            # Clean up potentially empty files:
+            if os.path.exists(tweets_filename):
+                os.remove(tweets_filename)
+
+
+        # Scrape user profile
+        user_data = scrape_twitter_info(profile_url, False)
+        if user_data is not None:
+            with open(profile_filename, "w") as f:
+                json.dump(user_data, f, indent=4)
+            print(f"Profile data for {username} saved to {profile_filename}")
+        else:
+            print(f"Skipping profile saving for {username} due to scraping failure.")
+            if os.path.exists(profile_filename):
+                os.remove(profile_filename)
+        if os.path.exists(tweets_filename) and os.path.exists(profile_filename): # if both exists
+             print(f"Data for {username} saved to {user_dir}") # print this line
 
 
 if __name__ == "__main__":

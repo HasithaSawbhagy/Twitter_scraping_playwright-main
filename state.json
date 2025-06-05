@@ -1,0 +1,75 @@
+{
+    "cookies": [
+        {
+            "name": "guest_id_marketing",
+            "value": "v1%3A174896983650251330",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1783529898.26063,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "guest_id_ads",
+            "value": "v1%3A174896983650251330",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1783529898.260869,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "guest_id",
+            "value": "v1%3A174896983650251330",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1783529836.403281,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "gt",
+            "value": "1929945491699069107",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1748978836.432637,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "personalization_id",
+            "value": "\"v1_dJvY4wjYENvX2mUPg9QzAA==\"",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1783529898.261078,
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "__cf_bm",
+            "value": "y3UwG1RYz.mvg6ughgyi1DVm.DSVRDAZn6TAwZAHyZM-1748969899-1.0.1.1-jeXBcR6oF2Zqjm.lhLBgXrVC_11HPQML3ePBCAhRHG6sIBFE_pbNcB4vdptJyszsLx0iiVHYSIoG_zqYRRu0eD0DvdkaDi9r5hxo9GBk8Q8",
+            "domain": ".x.com",
+            "path": "/",
+            "expires": 1748971699.289203,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "NID",
+            "value": "524=HUYMPRDeve3HYV31xWdQ9JrKcvjJHIzjfhBIIq-uO81NkHKcZQfmCUSgPbPcKrhlpf-9bsDZtv43m1BZI58t2G8hJCYtdmA8upDcktWZwfBWojZjPvwZHwsDsI0o8od0LvqJoCPZ8EpOSANE3C5X62t7OUqzZ3xTxPMStUkEn00p6_qz19HGLPKHWtcBlUGD",
+            "domain": ".google.com",
+            "path": "/",
+            "expires": 1764781098.469491,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        }
+    ],
+    "origins": []
+}
